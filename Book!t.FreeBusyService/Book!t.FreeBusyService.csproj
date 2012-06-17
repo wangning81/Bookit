@@ -57,7 +57,7 @@
     <SignAssembly>true</SignAssembly>
   </PropertyGroup>
   <PropertyGroup>
-    <AssemblyOriginatorKeyFile>BookitKey.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>..\BookitKey.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="EntityFramework">
@@ -111,9 +111,6 @@
       <Project>{45FC8932-1218-446E-AF50-84A8887E4962}</Project>
       <Name>Book!t.Data</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="BookitKey.snk" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>

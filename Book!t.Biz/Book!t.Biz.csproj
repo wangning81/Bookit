@@ -73,7 +73,7 @@
     <SignAssembly>true</SignAssembly>
   </PropertyGroup>
   <PropertyGroup>
-    <AssemblyOriginatorKeyFile>BookitKey.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>..\BookitKey.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="log4net">
@@ -129,7 +129,6 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="BookitKey.snk" />
     <None Include="Service References\FreeBusyService\FreeBusyService.wsdl" />
     <None Include="Service References\FreeBusyService\item.xsd">
       <SubType>Designer</SubType>

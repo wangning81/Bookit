@@ -74,7 +74,7 @@
     <SignAssembly>true</SignAssembly>
   </PropertyGroup>
   <PropertyGroup>
-    <AssemblyOriginatorKeyFile>BookitKey.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>..\BookitKey.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="EntityFramework, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
@@ -101,7 +101,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="BookitKey.snk" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
