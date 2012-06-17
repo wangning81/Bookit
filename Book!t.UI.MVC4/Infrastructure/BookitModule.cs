@@ -10,7 +10,7 @@ namespace Bookit.UI.Mvc4.Infrastructure
         {
             this.Bind<ICalendarFileBuilder>().To<VCalendarBuilder>().InSingletonScope();
 #if ONLINEDEBUG
-            this.Bind<IMeetingRoomRepository>().To<MeetingRoomDbRepository>().InSingletonScope();
+            this.Bind<IMeetingRoomRepository>().To<MeetingRoomDBRepository>().InSingletonScope();
             this.Bind<IRoomFinder>().To<ShortestPathFinder>().InSingletonScope();
 #elif OFFLINEDEBUG
             this.Bind<IRoomFinder>().To<DummyFinder>();
