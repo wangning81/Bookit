@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Book!t - About";
+}
+<div class="content_left_section">
+    <ul id="about_menu">
+        @foreach (var m in (Dictionary<string, string>)ViewBag.MenuList)
+        { 
+            <li>@Html.ActionLink(m.Key, "index", new { viewName = m.Value }, (string)ViewBag.ContentViewName == m.Value ?
+            new { @class = "selected_left_menuitem" } : null)</li>
+        }
+    </ul> 
+</div>
+<div class="content_right_section">
+    @{Html.RenderPartial((string)ViewBag.ContentViewName);}
+</div>

@@ -1,0 +1,22 @@
+﻿<Window x:Class="Bookit.Data.Admin.WpfUI.MeetingRoomWnd"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MeetingRoomWnd" Height="645" Width="795">
+    <Grid>
+        <DataGrid AutoGenerateColumns="True" ItemsSource="{Binding}" Name="dgridMR" Margin="0,0,0,234" />
+        <Label Content="ID:" Height="28" HorizontalAlignment="Left" Margin="20,384,0,0" Name="lbId" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="99,421,0,0" Name="tbName" VerticalAlignment="Top" Width="193" />
+        <Label Content="Name:" Height="28" HorizontalAlignment="Left" Margin="26,421,0,0" Name="lbName" VerticalAlignment="Top" />
+        <Label Content="Capicity:" Height="28" HorizontalAlignment="Left" Margin="16,463,0,0" Name="lbCapicity" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="99,463,0,0" Name="tbCapicity" VerticalAlignment="Top" Width="193" />
+        <Button Content="Insert" Height="23" HorizontalAlignment="Left" Margin="413,505,0,0" Name="btnInsert" VerticalAlignment="Top" Width="75" Click="btnInsert_Click" />
+        <Label Content="Description:" Height="28" HorizontalAlignment="Left" Margin="16,505,0,0" Name="lbDescription" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="99,507,0,0" Name="tbDescription" VerticalAlignment="Top" Width="193" />
+        <Label Content="Email:" Height="28" HorizontalAlignment="Left" Margin="20,544,0,0" Name="lbEmail" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="99,549,0,0" Name="tbEmail" VerticalAlignment="Top" Width="193" />
+        <Label Content="Facilities:" Height="28" HorizontalAlignment="Left" Margin="350,395,0,0" Name="lbFacilities" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="429,395,0,0" Name="tbFacilities" VerticalAlignment="Top" Width="193" />
+        <Label Content="Bookable:" Height="28" HorizontalAlignment="Left" Margin="354,438,0,0" Name="lbDirectlyBookable" VerticalAlignment="Top" />
+        <CheckBox Content="Bookable" Height="16" HorizontalAlignment="Left" Margin="429,443,0,0" Name="cbBookable" VerticalAlignment="Top" IsChecked="True" />
+    </Grid>
+</Window>

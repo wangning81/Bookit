@@ -1,0 +1,19 @@
+﻿<Window x:Class="Bookit.Data.Admin.WpfUI.MapNodeWnd"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MapNodeWnd" Height="404" Width="549">
+    <Grid>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="313,55,0,0" Name="tbName" VerticalAlignment="Top" Width="193" />
+        <DataGrid AutoGenerateColumns="True" Height="365" HorizontalAlignment="Left" Name="dgridNodes" VerticalAlignment="Top" Width="229" ItemsSource="{Binding}" />
+        <Label Content="ID:" Height="28" HorizontalAlignment="Left" Margin="249,12,0,0" Name="label1" VerticalAlignment="Top" Width="39" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="313,12,0,0" Name="lbId" VerticalAlignment="Top" Width="193" />
+        <Label Content="Name:" Height="28" HorizontalAlignment="Left" Margin="249,50,0,0" Name="lbName" VerticalAlignment="Top" />
+        <Label Content="Type:" Height="28" HorizontalAlignment="Left" Margin="249,155,0,0" Name="lbType" VerticalAlignment="Top" />
+        <RadioButton Content="CubeIsland" Height="16" HorizontalAlignment="Left" Margin="313,160,0,0" Name="rbIsland" VerticalAlignment="Top" GroupName="TypeGroup" IsChecked="True" />
+        <RadioButton Content="Gateway" Height="16" HorizontalAlignment="Left" Margin="313,182,0,0" Name="rbGateway" VerticalAlignment="Top" GroupName="TypeGroup" />
+        <RadioButton Content="MeetingRoom" Height="16" HorizontalAlignment="Left" Margin="313,204,0,0" Name="radioButton3" VerticalAlignment="Top" GroupName="TypeGroup" />
+        <Button Content="&lt;&lt; Insert" Height="45" HorizontalAlignment="Left" Margin="249,246,0,0" Name="btnInsert" VerticalAlignment="Top" Width="257" Click="btnInsert_Click" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="313,97,0,0" Name="tbNum" VerticalAlignment="Top" Width="193" />
+        <Label Content="Num:" Height="28" HorizontalAlignment="Left" Margin="249,92,0,0" Name="label2" VerticalAlignment="Top" />
+    </Grid>
+</Window>

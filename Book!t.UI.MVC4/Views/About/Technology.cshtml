@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "Technology";
+}
+<script type="text/javascript">
+    $("#main_content").height('1400px');
+</script>
+<h2>
+    Technology</h2>
+<h3>
+    UI:</h3>
+<a href="http://www.asp.net/mvc/mvc4">
+    <img src="@Url.Content("~/Images/asp-net_mvc4.png")" alt="ASPNET_MVC4"/>
+</a>
+<p style="font-style:italic">
+    "ASP.NET MVC 4 is a framework for building scalable, standards-based web applications
+    using well-established design patterns and the power of ASP.NET and the .NET Framework."
+</p>
+<p>
+    One advantage of ASP.NET MVC is that search can be done in "REST-style".
+</p>
+<p>
+    URL Schema:</p>
+<p>
+    Regular Search: /regular/{start time}/{duration}/{attendee}</p>
+<p>
+    OneClick Search: /oneclick/{threshold}</p>
+<h3>
+    DI Container:</h3>
+<a href="http://ninject.org/">
+    <img src="@Url.Content("~/Images/ninject.jpg")" alt="Ninject" width="250" height="250" />
+</a>
+<p style="font-style:italic">
+    "Ninject is a lightning-fast, ultra-lightweight dependency injector for .NET applications.
+    It helps you split your application into a collection of loosely-coupled, highly-cohesive
+    pieces, and then glue them back together in a flexible manner. By using Ninject
+    to support your software’s architecture, your code will become easier to write,
+    reuse, test, and modify."
+</p>
+<h3>
+    DB backend:</h3>
+<a href="http://msdn.microsoft.com/en-us/data/aa937723">
+    <img src="@Url.Content("~/Images/entity_framework.jpg")" alt="EntityFramework"/>
+</a>
+<p style="font-style:italic">
+"Entity Framework 4.1 brings a set of powerful productivity features, including “Code First” support, the productivity-enhancing DbContext API, and the ability to work with an existing database or have it created automatically."
+</p>

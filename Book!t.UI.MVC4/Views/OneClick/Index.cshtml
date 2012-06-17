@@ -1,0 +1,40 @@
+﻿@model Bookit.UI.Mvc4.Models.SearchViewModel
+@using Bookit.HtmlHelpers;
+@using Bookit.Domain;
+@{
+    ViewBag.Title = "Book!t - OneClick";
+    OneClickSearchDetail oneClickDetail = Model.SearchDetail as OneClickSearchDetail;
+}
+
+<div class="content_left_section">
+    <h3>
+        room(s) available in next...</h3>
+    <ul id="oneclick_menu">
+        @foreach (var m in (Dictionary<string, int>)ViewBag.MenuList)
+        { 
+            <li>@Html.ActionLink(m.Key, "index", new { threshold = m.Value }, 
+                oneClickDetail.AvailableTolerenceThreshold == m.Value ?
+                new {
+                    @class =  "selected_left_menuitem"
+                } : null
+            )</li>
+        }
+    </ul>
+</div>
+<div class="content_right_section">
+    @if (Model.SearchResults.Count == 0)
+    {
+        Html.RenderPartial("NoRoomAvailable", oneClickDetail);
+    }
+    else
+    {
+        Html.RenderPartial("MeetingRoomDetail", new Bookit.UI.Mvc4.Models.MeetingRoomDetailsViewModel()
+        {
+            SearchDetail = Model.SearchDetail,
+            SearchResult = Model.SearchResults.ToList()
+        });
+    }
+    <div class="pager">
+        @Html.PageLinks(Model.PagingInfo, i => Url.Action("Index", new { page = i }))
+    </div>
+</div>

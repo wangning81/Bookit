@@ -1,0 +1,29 @@
+﻿@model Bookit.Domain.RegularSearchDetail
+@using Telerik.Web.Mvc;
+<div id="regularSearch">
+    @using (Html.BeginForm())
+    {
+        <div id="date_picker" style="margin: 0 auto">
+        <label class="date_picker_label">
+            Start Time:</label>
+        @Html.Telerik().DateTimePickerFor(m => m.StartDateTime).Min(DateTime.Now).Max(DateTime.Now.AddDays(29));
+        <label class="date_picker_label">
+            Duration (in minutes):</label>
+        @Html.Telerik().IntegerTextBoxFor(m => m.Duration).MaxValue(10 * 60)
+        <label class="date_picker_label">
+            Attendees:</label>
+        @(Html.Telerik().DropDownListFor(m => m.AttendeeNumber)
+            .Items(addAction => { 
+                    for(int i = 1 ; i <= 9 ; i++)
+                    {
+                        addAction.Add().Text(i.ToString()).Value(i.ToString());
+                    }
+                    addAction.Add().Text("10+").Value("10");
+            })
+            )
+        <button id="find_room_button" type="submit" class="t-button" style="background:whiteSmoke">
+            Search</button>
+    </div>
+    }
+</div>
+

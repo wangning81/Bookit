@@ -1,0 +1,31 @@
+﻿
+<script type="text/javascript">
+    $("#main_content").height('1400px');
+</script>
+
+<h2>Idea</h2>
+<p>The BIG idea is that we not only search the rooms but also use algorithms to RANK the results.</p>
+<p>Two major parameters that Book!t takes into consideration are:
+<p style="font-weight:bold">
+    1. The distance between YOU and available rooms;</p>
+<p style="font-weight:bold">
+    2. The difference between ATTENDEE# and CAPACITY of the room;
+</p>
+
+<h3>Approach</h3>
+<p>
+To bring this idea into reality we input all cubicles/cubicle islands/gateways/meeting rooms information (map nodes) and their relationships (map edges) into the database. 
+</p>
+<p style="font-size:small">Below is a draft that we abstract all cubicles into graph model:</p>
+<img src="@Url.Content("~/Images/map_draft.jpg")" alt="map_draft"/>
+<h3>Algorithm</h3>
+<p>At runtime Book!t builds an <a href="http://en.wikipedia.org/wiki/Graph_(mathematics)">undirected graph</a> in memory then traverses it to find a shortest path between you and available rooms, by using classic <a href="http://en.wikipedia.org/wiki/Dijkstra's_algorithm">Dijkstra's algorithm.</a></p>
+<p>As mentioned, capacity is also taken into consideration. Book!t uses the following formula to calculate a score for each available room:</p>
+<p style="font-weight:bold">
+score = distance + (attendee – capacity)2
+</p>
+<p>Finally all results with scores will be sorted in ascending order. DONE.</p>
+
+<h3>Note</h3>
+<p>We believe this idea/feature would show you the results in a "more intelligent" way.</p>
+<p style="font-weight:bold">Have fun with it but don't forget input your cubicle# into <img src="@Url.Content("~/Images/login_snap.jpg")" alt="login" width="120px" /> first!</p>

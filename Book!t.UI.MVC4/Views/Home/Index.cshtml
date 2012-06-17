@@ -1,0 +1,16 @@
+﻿@model Bookit.Domain.SearchDetail
+@{
+    ViewBag.Title = "Book!t - Home";
+}
+<div id="home_wrapper">
+    <div id="home_teaser">
+        <h3>
+            An innovative website to help you</h3>
+        <h1>
+            book a meeting room</h1>
+    </div>
+    <img src="@Url.Content("~/Images/arrow_swoop_right.png")" style="position: absolute; top: 320px;" alt="logo" />
+    <div id="home_search_wrapper">
+        @{ Html.RenderPartial("RegularSearch"); }
+    </div>
+</div>

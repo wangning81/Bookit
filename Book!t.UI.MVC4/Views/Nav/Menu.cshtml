@@ -1,0 +1,18 @@
+﻿@model IList<Bookit.UI.Mvc4.Models.NavLink>
+@using Bookit.UI.Mvc4.Infrastructure;
+<div id="nav-header">
+    <ul id="nav-top">
+        @foreach (var link in Model)
+        {
+            <li>
+                <div>
+                    <span>
+                        @Html.ActionLink(link.Text, link.ActionName, link.ControllerName, null,
+                        link.IsSelected ? new { @class = "selected_li_item" } : new { @class = "unselected_li_item" })
+                    </span>
+                    
+                </div>
+            </li>
+        }
+    </ul>
+</div>

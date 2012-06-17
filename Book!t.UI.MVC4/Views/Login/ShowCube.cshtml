@@ -1,0 +1,10 @@
+﻿@model string
+@using (Ajax.BeginForm("Change", "Login",
+            new AjaxOptions() { UpdateTargetId = "login", HttpMethod = "Post" }))
+{
+    <button type="submit" class="login_button">
+        Change</button>
+    <div style="margin-left: 10px;
+    float:right; font-weight: bold; color:White"><span>@Model</span></div>
+    <div style="margin-left: 30px; color:White; float:right; font-weight: bold">Cubicle#:</div>
+}

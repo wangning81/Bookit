@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "Help";
+}
+
+<script type="text/javascript">
+    $("#main_content").height('1400px');
+</script>
+
+<h2>Help</h2>
+
+<h3>Cubicle#</h3>
+<p>
+We highly recommend you enter your Cubicle# (the number in your name plate)
+ through the input box at top-right corner:
+<img src="@Url.Content("~/Images/login_snap.jpg")" alt="login" style="margin-top: 10px" /></p>
+<p>With the number we could know where you are then take the distance between
+you and the room into consideration when list the results.
+</p>
+<p style="font-size: small">
+* For reception desks:
+1-Floor Reception = "1";
+2-Floor Reception = "0";
+</p>
+
+<h3>Regular Search</h3>
+
+<p>This is the most common way you would use to look for an available meeting room.</p>
+<p>Provide start time, duration and attendees then click “Search”, all available rooms that meet your criterion will be 
+listed.</p>
+
+<img src="@Url.Content("~/Images/help_snap1.jpg")" alt="snap1"/>
+
+<h3>OneClick Search</h3>
+
+<p>OneClick search provides you another way to find a room.</p>
+<p>It immediately lists all meeting rooms that will be available at anytime in next xxx minutes.</p>
+<img src="@Url.Content("~/Images/help_snap2.jpg")" alt="snap2"/>
+<p>This feature could help you in such scenarios:</p>
+<p>•You want to start a short meeting with a room that will be available as early as possible;</p>
+<p>•There’s no room right now but you don’t mind to find one sometime later.</p>
+
+<h3>Book it!</h3>
+<p>Click <img src="@Url.Content("~/Images/bookit_button.jpg")" alt="Bookit Button"/> then your browser should prompt you to Open/Save an iCalendar file.</p>
+<p>Just click “Open” then your Outlook should open a new meeting request mail with start/end time you chose and the meeting room added as the resource.</p> 
+<p>Fill in Attendees, Subject, Body Text etc. then click “Send”.</p>
+<p>DONE!</p>

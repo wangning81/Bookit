@@ -1,0 +1,14 @@
+﻿@model Bookit.Domain.RegularSearchDetail
+<h3>No meeting room is available for your search criterion:</h3>
+<ul>
+    <li>Start Time: @Model.StartDateTime
+    </li>
+    <li>Duration: @Model.Duration
+    </li>
+    <li>Attendees: @Model.AttendeeNumber
+    </li>
+</ul>
+<h3>Suggestions:</h3>
+<p>• Try with other search criterion;</p>
+<p>• Try @Html.ActionLink("OneClick", "Index", "oneclick") search;</p>
+<p>• Try mini-rooms at 3rd floor;</p>

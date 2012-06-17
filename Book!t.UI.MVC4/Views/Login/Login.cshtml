@@ -1,0 +1,9 @@
+﻿@using (Ajax.BeginForm("Login", "Login",
+            new AjaxOptions() { UpdateTargetId = "login", HttpMethod = "Post" }, new { @class = "login_form" }))
+{
+        <button type="submit" class="login_button">
+        OK</button>
+    @Html.TextBox("cubeNo", string.Empty, new { @class = "login_box" });
+    <div style="margin-left: 15px; color:White; font-weight:bold ">Cubicle#:</div> 
+
+}

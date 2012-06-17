@@ -1,0 +1,34 @@
+50,1st Floor Southwest,cnbjs.imperial@thomsonreuters.com,Imperial Garden,WB TC P,0
+8,1st Floor Southeast,cnbjz.libai@thomsonreuters.com,Li Bai,WB TC P,1
+8,1st Floor Southeast,cnbjz.dufu@thomsonreuters.com,Du Fu,	WB TC P,1
+12,1st Floor Southeast,cnbjz.zhuangzi@thomsonreuters.com,Zhuang Zi,	WB TC P,1
+14,1st Floor Southeast,cnbjz.mencius@thomsonreuters.com,Mencius,WB TC P,1
+5,1st Floor West Zone,cnbjz.taizong@thomsonreuters.com,Emperor Taizong of Tang,WB TC,1
+5,1st Floor West Zone,cnbjz.wuzetian@thomsonreuters.com,Wu Zetian,WB TC,1
+5,1st Floor East Zone,cnbjz.wenofhan@thomsonreuters.com,Emperor Wen of Han,WB TC,1
+5,1st Floor East Zone,cnbjz.wuofhan@thomsonreuters.com,Emperor Wu of Han,WB TC,1
+5,1st Floor North Zone,cnbjz.kangxi@thomsonreuters.com,Kangxi Emperor,WB TC,1
+5,1st Floor North Zone,cnbjz.qianlong@thomsonreuters.com,Qianlong Emperor,WB TC,1
+3,2nd Floor Southwest,cnbjs.jadelake@thomsonreuters.com,Yu Yuan Tan,WB,1
+4,2nd Floor Southwest,cnbjs.pavillionpark@thomsonreuters.com,Tao Ran Ting,WB,1
+6,2nd Floor Southwest,grandviewpark@thomsonreuters.com,Grand View Park,WB TC P,0
+12,2nd Floor Southeast,cnbjs.trainingbenevo@thomsonreuters.com,Ti Ren Ge,WB P,0
+20,2nd Floor Southeast,cnbjs.trainingexcell@thomsonreuters.com,Wu Ying Dian,WB TC P,0
+14,2nd Floor Southeast,cnbjs.traininglitera@thomsonreuters.com,Wen Hua Dian,WB P,0
+6,2nd Floor West Zone,cnbjs.zizhuyan@thomsonreuters.com,Zi Zhu Yuan,WB,1
+6,2nd Floor West Zone,cnbjs.fragrancehill@thomsonreuters.com,Xiang Shan,WB TC,1
+8,1st Floor Southeast,cnbjz.xishi@thomsonreuters.com,Yang Guifei,WB TC P,1
+6,2nd Floor East Zone,cnbjs.templeofheaven@thomsonreuters.com,Tian Tan,WB TC,1
+6,2nd Floor East Zone,cnbjs.arcawangfujing@thomsonreuters.com,Wang Fu Jing,WB,1
+5,2nd Floor North Zone,cnbjs.jadeislet@thomsonreuters.com,Qiong Dao,WB,1
+5,2nd Floor North Zone,cnbjs.arcahouhai@thomsonreuters.com,Hou Hai,WB,1
+6,2nd Floor North Zone,cnbjs.ditan1@thomsonreuters.com,Di Tan,WB,1
+6,2nd Floor North Zone,cnbjs.yanqihu@thomsonreuters.com,Yan Qi Lake,WB,1
+8,3rd Floor Southwest,cnbjs.roomerhai@thomsonreuters.com,Er Hai,WB,1
+8,3rd Floor Southeast,cnbjs.luguhu@thomsonreuters.com,Lu Gu Hu,WB,1
+6,3rd Floor West Zone,cnbjs.weishanhu@thomsonreuters.com,Wei Shan Hu,WB,1
+6,3rd Floor West Zone,cnbjs.jingbohu@thomsonreuters.com,Jingbo Hu,WB,1
+4,3rd Floor Northwest,cnbjs.dongtin@thomsonreuters.com,Dong Ting Lake,WB,1
+4,3rd Floor Northwest,cnbjs.poyang@thomsonreuters.com,Poyang Lake,WB,1
+4,3rd Floor Northeast,cnbjs.tai@thomsonreuters.com,Tai Lake,WB,1
+4,3rd Floor Northeast,cnbjs.hongze@thomsonreuters.com,Hongze Lake,WB,1

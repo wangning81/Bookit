@@ -1,0 +1,32 @@
+Emperor Wen of Han,cnbjz.wenofhan@thomsonreuters.com,5,1F EZ,WB TC
+Emperor Wu of Han,cnbjz.wuofhan@thomsonreuters.com,5,1F EZ,WB TC
+Kangxi Emperor, cnbjz.kangxi@thomsonreuters.com,5,1F N, WB TC
+Qianlong Emperor, cnbjz.qianlong@thomsonreuters.com,5,1F NZ, WB TC
+Du Fu, cnbjz.dufu@thomsonreuters.com,8,1F SE, WB TC P
+Li Bai, cnbjz.libai@thomsonreuters.com,8,1F SE, WB TC P
+Mencius, cnbjz.mencius@thomsonreuters.com,14,1F SE,WB TC P
+Yang Guifei, cnbjz.xishi@thomsonreuters.com,8,1F SE, WB TC P
+Zhuang Zi, cnbjz.zhuangzi@thomsonreuters.com,12,1F SE, WB TC P
+Emperor Taizong of Tang, cnbjz.taizong@thomsonreuters.com,5,1F WZ,WB TC
+Wu Zetian, cnbjz.wuzetian@thomsonreuters.com,5,1F WZ,WB TC
+Tian Tan, cnbjs.templeofheaven@thomsonreuters.com,6,2F EZ, WB TC
+Wang Fu Jing, cnbjs.arcawangfujing@thomsonreuters.com,6,2F EZ, WB
+Di Tan, cnbjs.ditan1@thomsonreuters.com,6,2F NE, WB
+Yan Qi Lake, cnbjs.yanqihu@thomsonreuters.com,6,2F NE, WB
+Hou Hai, cnbjs.arcahouhai@thomsonreuters.com,5,2F NZ, WB
+Qiong Dao, cnbjs.jadeislet@thomsonreuters.com,5,2F NZ, WB
+Wu Ying Dian, cnbjs.trainingexcell@thomsonreuters.com,20,2F SE, WB TC P
+Wen Hua Dian, cnbjs.traininglitera@thomsonreuters.com,14,2F SE, WB P
+Ti Ren Ge, cnbjs.trainingbenevo@thomsonreuters.com,12,2F SE, WB P
+Yu Yuan Tan, cnbjs.jadelake@thomsonreuters.com,3,2F SW, WB
+Tao Ran Ting, cnbjs.pavillionpark@thomsonreuters.com,4,2F SW, WB
+Xiang Shan, cnbjs.fragrancehill@thomsonreuters.com,6,2F WZ, WB TC
+Hongze Lake, cnbjs.hongze@thomsonreuters.com,4,3F NE
+Tai Lake, cnbjs.tai@thomsonreuters.com,4,3F NE
+Dong Ting Lake, cnbjs.dongtin@thomsonreuters.com,4,3F NW
+Poyang Lake, cnbjs.poyang@thomsonreuters.com,4,3F NW
+Lu Gu Hu, cnbjs.luguhu@thomsonreuters.com,8,3F SE
+Er Hai, cnbjs.roomerhai@thomsonreuters.com,8,3F SW
+Jingbo Hu, cnbjs.jingbohu@thomsonreuters.com,6,3F WZ
+Wei Shan Hu, cnbjs.weishanhu@thomsonreuters.com,6, 3F WZ
+Zi Zhu Yuan, cnbjs.zizhuyan@thomsonreuters.com,6,2F WZ, WB

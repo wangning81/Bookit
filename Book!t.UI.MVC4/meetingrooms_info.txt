@@ -1,0 +1,12 @@
+5,Info Center 2nd Floor,cnbjs.mountemei@thomsonreuters.com,Mount Emei,WB TC,1
+5,Info Center 3rd Floor,cninfo.changbai@thomsonreuters.com,Mount Changbai,WB TC,1
+16,Info Center 3rd Floor,cninfo.everest@thomsonreuters.com,Mount Everest,WB TC P,1
+3,Info Center 3rd Floor,cnbjs.mountheng@thomsonreuters.com,Mount Heng,WB TC,1
+5,Info Center 3rd Floor,cnbjs.mounthuang@thomsonreuters.com,Mount Huang,WB TC,1
+5,Info Center 3rd Floor,cnbjs.mountkunlun@thomsonreuters.com,Mount Kunlun,WB TC,1
+5,Info Center 3rd Floor,cninfo.lushan@thomsonreuters.com,Mount Lu,WB TC,1
+5,Info Center 3rd Floor,cnbjs.mountputuo@thomsonreuters.com,Mount Putuo,WB TC,1
+5,Info Center 3rd Floor,cnbjs.mounttai@thomsonreuters.com,Mount Tai,WB TC,1
+5,Info Center 3rd Floor,cnbjs.mountwudang@thomsonreuters.com,Mount Wudang,WB TC,1
+8,Info Center 3rd Floor,cnbjs.mountwutai@thomsonreuters.com,Mount Wutai,WB TC,1
+52,Info Center 3rd Floor,cnbjs.westlake@thomsonreuters.com,West Lake,WB TC P,0

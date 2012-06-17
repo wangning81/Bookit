@@ -1,0 +1,26 @@
+﻿@model Bookit.UI.Mvc4.Models.SearchViewModel
+@using Bookit.HtmlHelpers;
+@using Bookit.UI.Mvc4.Models;
+@{
+    ViewBag.Title = "Book!t - Regular";
+}
+<div id="regular_search_wrapper" class="content_left_section">
+    @{Html.RenderPartial("RegularSearch", Model.SearchDetail);}
+</div>
+<div class="content_right_section">
+    @if (Model.SearchResults.Count == 0)
+    {
+        Html.RenderPartial("NoRoomAvailable", Model.SearchDetail);
+    }
+    else
+    {
+        Html.RenderPartial("MeetingRoomDetail", new MeetingRoomDetailsViewModel()
+        {
+            SearchDetail = Model.SearchDetail,
+            SearchResult = Model.SearchResults.ToList()
+        });
+    }
+    <div class="pager">
+        @Html.PageLinks(Model.PagingInfo, i => Url.Action("Index", new { page = i }))
+    </div>
+</div>

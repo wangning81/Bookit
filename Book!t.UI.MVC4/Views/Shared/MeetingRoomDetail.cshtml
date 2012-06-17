@@ -1,0 +1,62 @@
+﻿@model Bookit.UI.Mvc4.Models.MeetingRoomDetailsViewModel
+@using Bookit.Domain;
+<ul id="ul_detail_list">
+    @{bool isOneClick = Model.SearchDetail is OneClickSearchDetail;}
+    @for (int i = 0; i < Model.SearchResult.Count; i++)
+    {
+        <li>
+            <div class="img_div">
+                @{string img_file = string.Format("~/Images/{0}.jpg", Model.SearchResult[i].TheRoom.Name);}
+                <img height = "150" width = "150" src="@Url.Content(img_file)" alt="room plate" />
+            </div>
+            <div style="float: left; width: 290px">
+                <h2 style="padding-top: 10px">
+                    @Html.DisplayFor(m => m.SearchResult[i].TheRoom.Name)
+                </h2>
+                <div>
+                    Location:
+                    @Html.DisplayFor(m => m.SearchResult[i].TheRoom.Description)
+                </div>
+                <div>
+                    Capacity:
+                    @Html.DisplayFor(m => m.SearchResult[i].TheRoom.Capacity)
+                </div>
+                
+                @if (isOneClick)
+                {
+                    var result = (OneClickSearchResult)Model.SearchResult[i];
+                    <div>
+                        Avail.: @result.AvailStartTime.ToString("t") ~ @result.AvailStartTime.AddMinutes(result.AvailDuration).ToString("t")
+                        ( @result.AvailDuration.ToString() mins )
+                    </div>
+                }
+                
+            </div>
+            <div style="float: left">
+                @using (Html.BeginForm("book", isOneClick ? "oneclick" : "regular"))
+                {
+                    <div>
+                        @Html.Hidden("roomName", Model.SearchResult[i].TheRoom.Name)
+                        @Html.Hidden("roomEmail", Model.SearchResult[i].TheRoom.Email)
+                        @Html.Hidden("roomDescription", Model.SearchResult[i].TheRoom.Description)
+
+                        @if (isOneClick)
+                        {
+                            var result = (OneClickSearchResult)Model.SearchResult[i];
+                            @Html.Hidden("availTime", result.AvailStartTime)
+                            @Html.Hidden("availDuration", result.AvailDuration)
+                        }
+                        else //regular
+                        { 
+                            @Html.Hidden("startTime", Model.SearchDetail.StartDateTime)
+                            @Html.Hidden("duration", Model.SearchDetail.Duration)                        
+                        }
+                        
+                        <button id="btnBook" type="submit" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only bookit_button">
+                            + book it!</button>
+                    </div>
+                }
+            </div>
+        </li>
+    }
+</ul>
