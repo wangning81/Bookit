@@ -1,521 +1,229 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <publishData>
-  <publishProfile publishUrl="D:\PrivateRepository\trunk\Incubator\Bookit\PublishSite" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="LocalPublishProfile" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
-    <file relUrl="Content/2011.1.315/Office2010Black/imagebrowser.png" publishTime="08/25/2011 18:06:32" />
-    <file relUrl="Content/2011.1.315/Web20/slider-v-left.gif" publishTime="08/25/2011 18:06:38" />
-    <file relUrl="Content/2011.1.315/Sitefinity/sprite.png" publishTime="08/25/2011 18:06:29" />
-    <file relUrl="Content/2011.1.315/Vista/slider-h-bottom.gif" publishTime="08/25/2011 18:06:40" />
-    <file relUrl="Images/Imperial Garden.jpg" publishTime="11/06/2011 16:21:31" />
-    <file relUrl="Content/2011.1.315/Sitefinity/slider-v-both.gif" publishTime="08/25/2011 18:06:29" />
-    <file relUrl="Content/2011.1.315/Default/editor.png" publishTime="08/25/2011 18:06:28" />
-    <file relUrl="Content/2011.1.315/Office2010Black/slider-hs-top.gif" publishTime="08/25/2011 18:06:32" />
-    <file relUrl="Content/2011.1.315/Office2007/sprite.png" publishTime="08/25/2011 18:06:36" />
-    <file relUrl="Content/2011.1.315/Forest/slider-hs-bottom.gif" publishTime="08/25/2011 18:06:35" />
-    <file relUrl="Content/2011.1.315/Black/treeview-nodes.png" publishTime="08/25/2011 18:06:46" />
-    <file relUrl="Content/2011.1.315/Outlook/slider-h-bottom.gif" publishTime="08/25/2011 18:06:43" />
-    <file relUrl="Content/2011.1.315/Sunset/slider-h-top.gif" publishTime="08/25/2011 18:06:25" />
-    <file relUrl="bin/System.Web.WebPages.Razor.dll" publishTime="09/06/2011 16:21:36" />
-    <file relUrl="Images/Mount Huang.jpg" publishTime="11/24/2011 11:58:57" />
-    <file relUrl="Content/2011.1.315/Hay/editor.png" publishTime="08/25/2011 18:06:23" />
-    <file relUrl="Content/2011.1.315/Hay/slider-h-top.gif" publishTime="08/25/2011 18:06:23" />
-    <file relUrl="Scripts/knockout-1.3.0beta.debug.js" publishTime="10/12/2011 14:54:05" />
-    <file relUrl="Content/2011.1.315/WebBlue/slider-hs-bottom.gif" publishTime="08/25/2011 18:06:39" />
-    <file relUrl="Content/2011.1.315/Office2007/editor.png" publishTime="08/25/2011 18:06:36" />
-    <file relUrl="Scripts/knockout-1.3.0beta.js" publishTime="10/12/2011 14:54:05" />
-    <file relUrl="Scripts/2011.1.315/telerik.grid.reordering.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Content/2011.1.315/Telerik/slider-v-left.gif" publishTime="08/25/2011 18:06:44" />
-    <file relUrl="Content/2011.1.315/Simple/slider-hs-both.gif" publishTime="08/25/2011 18:06:42" />
-    <file relUrl="Content/2011.1.315/Vista/editor.png" publishTime="08/25/2011 18:06:40" />
-    <file relUrl="Content/2011.1.315/Web20/slider-h-top.gif" publishTime="08/25/2011 18:06:38" />
-    <file relUrl="Content/2011.1.315/Telerik/slider-v-both.gif" publishTime="08/25/2011 18:06:44" />
-    <file relUrl="Content/2011.1.315/Outlook/treeview-nodes-rtl.png" publishTime="08/25/2011 18:06:43" />
-    <file relUrl="Content/2011.1.315/telerik.outlook.min.css" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Content/2011.1.315/telerik.webblue.min.css" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Content/images/ui-bg_diagonals-thick_18_b81900_40x40.png" publishTime="08/25/2011 18:06:22" />
-    <file relUrl="bin/System.Web.Mvc.xml" publishTime="07/07/2011 09:38:06" />
-    <file relUrl="Content/2011.1.315/Black/slider-vs-left.gif" publishTime="08/25/2011 18:06:46" />
-    <file relUrl="Content/2011.1.315/Web20/slider-hs-bottom.gif" publishTime="08/25/2011 18:06:38" />
-    <file relUrl="Views/Regular/NoRoomAvailable.cshtml" publishTime="11/08/2011 11:39:27" />
-    <file relUrl="bin/System.Web.Helpers.dll" publishTime="09/06/2011 16:21:36" />
-    <file relUrl="Content/2011.1.315/Office2010Black/treeview-nodes-rtl.png" publishTime="08/25/2011 18:06:32" />
-    <file relUrl="Content/2011.1.315/telerik.default.min.css" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Content/2011.1.315/telerik.office2010black.min.css" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Content/2011.1.315/telerik.telerik.min.css" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Content/2011.1.315/Simple/treeview-nodes-rtl.png" publishTime="08/25/2011 18:06:42" />
-    <file relUrl="Scripts/2011.1.315/telerik.calendar.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Content/2011.1.315/Office2010Black/sprite.png" publishTime="08/25/2011 18:06:32" />
-    <file relUrl="Content/2011.1.315/Sitefinity/slider-h-top.gif" publishTime="08/25/2011 18:06:29" />
-    <file relUrl="Content/2011.1.315/Simple/slider-vs-right.gif" publishTime="08/25/2011 18:06:42" />
-    <file relUrl="Content/2011.1.315/Forest/loading.gif" publishTime="08/25/2011 18:06:35" />
-    <file relUrl="Scripts/2011.1.315/telerik.upload.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="bin/System.Web.Razor.dll" publishTime="09/06/2011 16:21:36" />
-    <file relUrl="Content/2011.1.315/Simple/editor.png" publishTime="08/25/2011 18:06:42" />
-    <file relUrl="Scripts/2011.1.315/telerik.common.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Content/2011.1.315/Sitefinity/slider-hs-top.gif" publishTime="08/25/2011 18:06:29" />
-    <file relUrl="Views/Login/Login.cshtml" publishTime="11/04/2011 14:28:28" />
-    <file relUrl="Content/images/ui-bg_glass_100_fdf5ce_1x400.png" publishTime="08/25/2011 18:06:22" />
-    <file relUrl="Content/2011.1.315/telerik.common.min.css" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Content/themes/base/jquery.ui.tabs.css" publishTime="10/12/2011 14:54:00" />
-    <file relUrl="Content/2011.1.315/Outlook/slider-hs-bottom.gif" publishTime="08/25/2011 18:06:43" />
-    <file relUrl="bin/Bookit.Biz.dll" publishTime="12/20/2011 10:43:57" />
-    <file relUrl="Content/2011.1.315/Outlook/slider-v-left.gif" publishTime="08/25/2011 18:06:43" />
-    <file relUrl="Content/2011.1.315/Outlook/slider-h-both.gif" publishTime="08/25/2011 18:06:43" />
-    <file relUrl="Content/2011.1.315/Sunset/loading.gif" publishTime="08/25/2011 18:06:25" />
-    <file relUrl="Content/2011.1.315/Hay/slider-h-both.gif" publishTime="08/25/2011 18:06:23" />
-    <file relUrl="Content/2011.1.315/Office2007/slider-v-left.gif" publishTime="08/25/2011 18:06:36" />
-    <file relUrl="Scripts/MicrosoftAjax.debug.js" publishTime="08/25/2011 18:06:19" />
-    <file relUrl="Content/2011.1.315/Forest/slider-v-right.gif" publishTime="08/25/2011 18:06:35" />
-    <file relUrl="Scripts/2011.1.315/telerik.editor.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Content/2011.1.315/telerik.simple.min.css" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Images/asp-net-mvc-3.jpg" publishTime="10/28/2011 17:41:44" />
-    <file relUrl="Content/2011.1.315/Sunset/treeview-nodes.png" publishTime="08/25/2011 18:06:25" />
-    <file relUrl="Content/2011.1.315/Default/slider-vs-both.gif" publishTime="08/25/2011 18:06:28" />
-    <file relUrl="Content/2011.1.315/Black/imagebrowser.png" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Content/2011.1.315/Vista/slider-hs-bottom.gif" publishTime="08/25/2011 18:06:40" />
-    <file relUrl="Content/2011.1.315/Telerik/slider-hs-top.gif" publishTime="08/25/2011 18:06:44" />
-    <file relUrl="Content/2011.1.315/Sitefinity/slider-hs-bottom.gif" publishTime="08/25/2011 18:06:29" />
-    <file relUrl="Content/2011.1.315/Sitefinity/slider-v-right.gif" publishTime="08/25/2011 18:06:29" />
-    <file relUrl="Content/2011.1.315/telerik.sunset.min.css" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Content/themes/base/jquery.ui.dialog.css" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Scripts/modernizr-2.0.6-development-only.js" publishTime="10/12/2011 14:54:02" />
-    <file relUrl="Content/2011.1.315/Office2007/slider-hs-top.gif" publishTime="08/25/2011 18:06:36" />
-    <file relUrl="Content/2011.1.315/Sunset/slider-hs-top.gif" publishTime="08/25/2011 18:06:25" />
-    <file relUrl="Scripts/MicrosoftMvcAjax.js" publishTime="08/25/2011 18:06:19" />
-    <file relUrl="Views/About/Help.cshtml" publishTime="11/15/2011 15:39:28" />
-    <file relUrl="Content/2011.1.315/Office2007/sprite-vertical.png" publishTime="08/25/2011 18:06:36" />
-    <file relUrl="Content/2011.1.315/Office2010Black/slider-h-bottom.gif" publishTime="08/25/2011 18:06:32" />
-    <file relUrl="Content/2011.1.315/Simple/slider-h-both.gif" publishTime="08/25/2011 18:06:42" />
-    <file relUrl="Content/2011.1.315/Forest/treeview-nodes.png" publishTime="08/25/2011 18:06:35" />
-    <file relUrl="Content/themes/base/images/ui-bg_flat_75_ffffff_40x100.png" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Content/2011.1.315/Telerik/imagebrowser.png" publishTime="08/25/2011 18:06:45" />
-    <file relUrl="Images/Emperor Taizong of Tang.jpg" publishTime="11/06/2011 14:29:21" />
-    <file relUrl="Content/2011.1.315/Black/slider-v-left.gif" publishTime="08/25/2011 18:06:46" />
-    <file relUrl="Content/2011.1.315/Simple/treeview-nodes.png" publishTime="08/25/2011 18:06:42" />
-    <file relUrl="Content/2011.1.315/Web20/slider-v-right.gif" publishTime="08/25/2011 18:06:38" />
-    <file relUrl="Images/Ti Ren Ge.jpg" publishTime="11/06/2011 13:54:10" />
-    <file relUrl="Content/images/ui-icons_222222_256x240.png" publishTime="08/25/2011 18:06:22" />
-    <file relUrl="bin/Ninject.Web.Mvc.dll" publishTime="10/23/2011 18:52:00" />
-    <file relUrl="bin/Bookit.Biz.pdb" publishTime="12/20/2011 10:43:57" />
-    <file relUrl="Content/2011.1.315/Telerik/sprite-vertical.png" publishTime="08/25/2011 18:06:44" />
-    <file relUrl="Content/2011.1.315/Outlook/sprite-vertical.png" publishTime="08/25/2011 18:06:43" />
-    <file relUrl="Content/2011.1.315/Default/slider-vs-left.gif" publishTime="08/25/2011 18:06:28" />
-    <file relUrl="Content/2011.1.315/Forest/treeview-line.png" publishTime="08/25/2011 18:06:35" />
-    <file relUrl="Content/2011.1.315/Simple/sprite-vertical.png" publishTime="08/25/2011 18:06:42" />
-    <file relUrl="Views/OneClick/Index.cshtml" publishTime="11/08/2011 22:08:31" />
-    <file relUrl="Content/2011.1.315/WebBlue/slider-h-both.gif" publishTime="08/25/2011 18:06:39" />
-    <file relUrl="Content/2011.1.315/Web20/slider-hs-top.gif" publishTime="08/25/2011 18:06:38" />
-    <file relUrl="Content/2011.1.315/Sitefinity/slider-vs-right.gif" publishTime="08/25/2011 18:06:29" />
-    <file relUrl="Content/2011.1.315/WebBlue/slider-hs-top.gif" publishTime="08/25/2011 18:06:39" />
-    <file relUrl="Content/2011.1.315/Black/slider-hs-both.gif" publishTime="08/25/2011 18:06:46" />
-    <file relUrl="Scripts/jquery.validate-vsdoc.js" publishTime="08/25/2011 18:06:19" />
-    <file relUrl="Content/2011.1.315/telerik.rtl.min.css" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Content/2011.1.315/Sitefinity/treeview-line.png" publishTime="08/25/2011 18:06:29" />
-    <file relUrl="Content/2011.1.315/Telerik/editor.png" publishTime="08/25/2011 18:06:45" />
-    <file relUrl="Scripts/jquery-1.6.2.min.js" publishTime="10/12/2011 14:53:59" />
-    <file relUrl="Content/2011.1.315/WebBlue/slider-v-left.gif" publishTime="08/25/2011 18:06:39" />
-    <file relUrl="Images/Wang Fu Jing.jpg" publishTime="11/06/2011 13:57:40" />
-    <file relUrl="Content/2011.1.315/telerik.black.min.css" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Content/2011.1.315/Hay/slider-h-bottom.gif" publishTime="08/25/2011 18:06:23" />
-    <file relUrl="Content/2011.1.315/Default/slider-v-both.gif" publishTime="08/25/2011 18:06:28" />
-    <file relUrl="Content/2011.1.315/Forest/slider-hs-top.gif" publishTime="08/25/2011 18:06:35" />
-    <file relUrl="Content/2011.1.315/Windows7/slider-vs-left.gif" publishTime="08/25/2011 18:06:26" />
-    <file relUrl="Images/Yu Yuan Tan.jpg" publishTime="11/06/2011 14:00:28" />
-    <file relUrl="Content/2011.1.315/Office2010Black/sprite-vertical.png" publishTime="08/25/2011 18:06:32" />
-    <file relUrl="Content/2011.1.315/Sunset/treeview-line.png" publishTime="08/25/2011 18:06:25" />
-    <file relUrl="Content/2011.1.315/Sitefinity/treeview-nodes.png" publishTime="08/25/2011 18:06:29" />
-    <file relUrl="Content/2011.1.315/Vista/sprite-vertical.png" publishTime="08/25/2011 18:06:40" />
-    <file relUrl="Images/Mount Tai.jpg" publishTime="11/24/2011 11:58:57" />
-    <file relUrl="Content/2011.1.315/Outlook/loading.gif" publishTime="08/25/2011 18:06:43" />
-    <file relUrl="Content/2011.1.315/Office2007/slider-v-both.gif" publishTime="08/25/2011 18:06:36" />
-    <file relUrl="Scripts/jquery.unobtrusive-ajax.js" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Content/2011.1.315/Telerik/loading.gif" publishTime="08/25/2011 18:06:44" />
-    <file relUrl="Scripts/jquery.validate.unobtrusive.min.js" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Content/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Content/2011.1.315/Hay/slider-v-right.gif" publishTime="08/25/2011 18:06:23" />
-    <file relUrl="Content/2011.1.315/Black/slider-h-bottom.gif" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Content/2011.1.315/Hay/sprite.png" publishTime="08/25/2011 18:06:23" />
-    <file relUrl="Content/2011.1.315/Windows7/slider-h-top.gif" publishTime="08/25/2011 18:06:26" />
-    <file relUrl="Content/2011.1.315/telerik.forest.min.css" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Images/Dong Ting Lake.jpg" publishTime="11/06/2011 14:50:14" />
-    <file relUrl="Content/themes/base/images/ui-icons_888888_256x240.png" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Content/2011.1.315/Telerik/slider-hs-both.gif" publishTime="08/25/2011 18:06:44" />
-    <file relUrl="Content/2011.1.315/Office2010Black/slider-vs-left.gif" publishTime="08/25/2011 18:06:32" />
-    <file relUrl="Content/2011.1.315/Web20/editor.png" publishTime="08/25/2011 18:06:38" />
-    <file relUrl="Images/Hou Hai.jpg" publishTime="11/06/2011 13:45:44" />
-    <file relUrl="Content/2011.1.315/Vista/slider-v-both.gif" publishTime="08/25/2011 18:06:40" />
-    <file relUrl="Images/help_snap2.jpg" publishTime="11/08/2011 15:55:47" />
-    <file relUrl="Content/2011.1.315/Sitefinity/slider-h-bottom.gif" publishTime="08/25/2011 18:06:29" />
-    <file relUrl="Content/2011.1.315/Simple/slider-v-right.gif" publishTime="08/25/2011 18:06:42" />
-    <file relUrl="Scripts/jquery-1.6.2-vsdoc.js" publishTime="10/12/2011 14:53:59" />
-    <file relUrl="Content/images/ui-bg_flat_10_000000_40x100.png" publishTime="08/25/2011 18:06:22" />
-    <file relUrl="Content/2011.1.315/Telerik/slider-h-both.gif" publishTime="08/25/2011 18:06:45" />
-    <file relUrl="Content/themes/base/images/ui-icons_cd0a0a_256x240.png" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Content/themes/base/images/ui-bg_glass_75_dadada_1x400.png" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Content/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Images/Yang Guifei.jpg" publishTime="11/06/2011 14:29:21" />
-    <file relUrl="Content/2011.1.315/Forest/sprite-vertical.png" publishTime="08/25/2011 18:06:35" />
-    <file relUrl="Content/2011.1.315/Sunset/slider-v-both.gif" publishTime="08/25/2011 18:06:25" />
-    <file relUrl="Content/2011.1.315/Sunset/sprite.png" publishTime="08/25/2011 18:06:25" />
-    <file relUrl="Content/2011.1.315/Office2010Black/slider-hs-both.gif" publishTime="08/25/2011 18:06:32" />
-    <file relUrl="Images/Mount Kunlun.jpg" publishTime="11/24/2011 11:58:57" />
-    <file relUrl="Content/2011.1.315/Black/slider-vs-right.gif" publishTime="08/25/2011 18:06:46" />
-    <file relUrl="Images/ninject.jpg" publishTime="11/08/2011 17:19:52" />
-    <file relUrl="Content/2011.1.315/telerik.web20.min.css" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Content/2011.1.315/Office2007/slider-vs-left.gif" publishTime="08/25/2011 18:06:36" />
-    <file relUrl="Content/2011.1.315/Sunset/imagebrowser.png" publishTime="08/25/2011 18:06:25" />
-    <file relUrl="Content/2011.1.315/Outlook/treeview-line.png" publishTime="08/25/2011 18:06:43" />
-    <file relUrl="Content/2011.1.315/Hay/slider-hs-top.gif" publishTime="08/25/2011 18:06:23" />
-    <file relUrl="Content/2011.1.315/Simple/imagebrowser.png" publishTime="08/25/2011 18:06:42" />
-    <file relUrl="Views/Shared/Error.cshtml" publishTime="10/12/2011 14:53:58" />
-    <file relUrl="Content/2011.1.315/Vista/slider-v-left.gif" publishTime="08/25/2011 18:06:40" />
-    <file relUrl="Images/West Lake.jpg" publishTime="11/06/2011 14:50:14" />
-    <file relUrl="Content/2011.1.315/telerik.sitefinity.min.css" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Content/2011.1.315/Forest/treeview-nodes-rtl.png" publishTime="08/25/2011 18:06:35" />
-    <file relUrl="Content/2011.1.315/Telerik/slider-vs-right.gif" publishTime="08/25/2011 18:06:44" />
-    <file relUrl="Content/2011.1.315/WebBlue/treeview-line.png" publishTime="08/25/2011 18:06:39" />
-    <file relUrl="Content/themes/base/images/ui-icons_454545_256x240.png" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Content/2011.1.315/Office2007/imagebrowser.png" publishTime="08/25/2011 18:06:36" />
-    <file relUrl="Scripts/2011.1.315/telerik.grid.grouping.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Content/themes/base/jquery.ui.progressbar.css" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Scripts/2011.1.315/telerik.timepicker.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Content/2011.1.315/telerik.vista.min.css" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Content/2011.1.315/Office2010Black/slider-v-left.gif" publishTime="08/25/2011 18:06:32" />
-    <file relUrl="Content/2011.1.315/Office2007/treeview-nodes.png" publishTime="08/25/2011 18:06:36" />
-    <file relUrl="Content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Content/2011.1.315/WebBlue/sprite.png" publishTime="08/25/2011 18:06:39" />
-    <file relUrl="Content/2011.1.315/Outlook/slider-hs-both.gif" publishTime="08/25/2011 18:06:43" />
-    <file relUrl="Content/2011.1.315/Telerik/slider-h-bottom.gif" publishTime="08/25/2011 18:06:45" />
-    <file relUrl="Images/Poyang Lake.jpg" publishTime="11/06/2011 14:50:14" />
-    <file relUrl="Content/images/ui-icons_ffffff_256x240.png" publishTime="08/25/2011 18:06:22" />
-    <file relUrl="Content/themes/base/jquery.ui.slider.css" publishTime="10/12/2011 14:54:00" />
-    <file relUrl="Content/2011.1.315/Forest/imagebrowser.png" publishTime="08/25/2011 18:06:35" />
-    <file relUrl="Content/2011.1.315/Vista/loading.gif" publishTime="08/25/2011 18:06:40" />
-    <file relUrl="Content/2011.1.315/Default/slider-v-right.gif" publishTime="08/25/2011 18:06:28" />
-    <file relUrl="Global.asax" publishTime="10/23/2011 18:51:29" />
-    <file relUrl="Content/themes/base/jquery.ui.all.css" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Content/2011.1.315/Black/slider-h-top.gif" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Content/themes/base/jquery.ui.resizable.css" publishTime="10/12/2011 14:54:00" />
-    <file relUrl="Scripts/2011.1.315/telerik.tabstrip.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="meetingrooms_arca.txt" publishTime="12/20/2011 10:24:32" />
-    <file relUrl="Views/Shared/RegularSearch.cshtml" publishTime="11/29/2011 10:49:24" />
-    <file relUrl="Content/2011.1.315/Windows7/slider-hs-bottom.gif" publishTime="08/25/2011 18:06:26" />
-    <file relUrl="Content/2011.1.315/Office2010Black/slider-v-right.gif" publishTime="08/25/2011 18:06:32" />
-    <file relUrl="Content/2011.1.315/Sunset/slider-vs-left.gif" publishTime="08/25/2011 18:06:25" />
-    <file relUrl="Content/2011.1.315/Simple/slider-hs-bottom.gif" publishTime="08/25/2011 18:06:42" />
-    <file relUrl="Content/2011.1.315/Windows7/slider-v-left.gif" publishTime="08/25/2011 18:06:26" />
-    <file relUrl="Views/Web.config" publishTime="10/12/2011 15:22:30" />
-    <file relUrl="Images/Jingbo Hu.jpg" publishTime="11/06/2011 14:50:14" />
-    <file relUrl="Scripts/2011.1.315/telerik.combobox.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Content/2011.1.315/Telerik/slider-h-top.gif" publishTime="08/25/2011 18:06:45" />
-    <file relUrl="Images/Er Hai.jpg" publishTime="11/06/2011 14:50:14" />
-    <file relUrl="Content/2011.1.315/Simple/slider-v-left.gif" publishTime="08/25/2011 18:06:42" />
-    <file relUrl="Images/Li Bai.jpg" publishTime="11/06/2011 14:29:21" />
-    <file relUrl="Content/images/ui-bg_gloss-wave_35_f6a828_500x100.png" publishTime="08/25/2011 18:06:22" />
-    <file relUrl="Content/2011.1.315/Forest/slider-vs-right.gif" publishTime="08/25/2011 18:06:35" />
-    <file relUrl="Images/Qiong Dao.jpg" publishTime="11/06/2011 13:46:05" />
-    <file relUrl="Scripts/jquery.validate.unobtrusive.js" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Content/2011.1.315/Forest/slider-vs-left.gif" publishTime="08/25/2011 18:06:35" />
-    <file relUrl="Content/2011.1.315/Outlook/slider-vs-both.gif" publishTime="08/25/2011 18:06:43" />
-    <file relUrl="Content/2011.1.315/Office2007/treeview-line.png" publishTime="08/25/2011 18:06:36" />
-    <file relUrl="Images/m_holder.jpg" publishTime="11/03/2011 21:21:59" />
-    <file relUrl="bin/System.Web.WebPages.Razor.xml" publishTime="07/07/2011 09:38:06" />
-    <file relUrl="Content/2011.1.315/WebBlue/slider-vs-both.gif" publishTime="08/25/2011 18:06:39" />
-    <file relUrl="Content/2011.1.315/Forest/sprite.png" publishTime="08/25/2011 18:06:35" />
-    <file relUrl="Content/2011.1.315/Office2007/slider-hs-both.gif" publishTime="08/25/2011 18:06:36" />
-    <file relUrl="Content/2011.1.315/Default/slider-h-both.gif" publishTime="08/25/2011 18:06:28" />
-    <file relUrl="Content/2011.1.315/Default/imagebrowser.png" publishTime="08/25/2011 18:06:28" />
-    <file relUrl="Content/2011.1.315/Forest/slider-h-both.gif" publishTime="08/25/2011 18:06:35" />
-    <file relUrl="Content/2011.1.315/Black/sprite-vertical.png" publishTime="08/25/2011 18:06:46" />
-    <file relUrl="Scripts/2011.1.315/telerik.datepicker.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="bin/Book!t.UI.MVC4.dll" publishTime="12/20/2011 10:44:00" />
-    <file relUrl="Content/2011.1.315/Office2010Black/treeview-nodes.png" publishTime="08/25/2011 18:06:32" />
-    <file relUrl="Content/2011.1.315/Default/treeview-line.png" publishTime="08/25/2011 18:06:28" />
-    <file relUrl="Content/2011.1.315/Vista/slider-vs-both.gif" publishTime="08/25/2011 18:06:40" />
-    <file relUrl="Content/2011.1.315/Default/treeview-nodes-rtl.png" publishTime="08/25/2011 18:06:28" />
-    <file relUrl="Content/2011.1.315/Forest/slider-v-left.gif" publishTime="08/25/2011 18:06:35" />
-    <file relUrl="bin/System.Web.WebPages.xml" publishTime="07/07/2011 09:38:06" />
-    <file relUrl="Scripts/jquery-ui-1.8.11.min.js" publishTime="10/12/2011 14:54:00" />
-    <file relUrl="Content/2011.1.315/Black/treeview-nodes-rtl.png" publishTime="08/25/2011 18:06:46" />
-    <file relUrl="Content/2011.1.315/Sunset/slider-v-left.gif" publishTime="08/25/2011 18:06:25" />
-    <file relUrl="meetingrooms_info.txt" publishTime="11/24/2011 11:39:25" />
-    <file relUrl="Views/About/Idea.cshtml" publishTime="11/15/2011 15:47:56" />
-    <file relUrl="Content/2011.1.315/Simple/slider-h-top.gif" publishTime="08/25/2011 18:06:42" />
-    <file relUrl="Content/2011.1.315/Outlook/slider-vs-right.gif" publishTime="08/25/2011 18:06:43" />
-    <file relUrl="Content/2011.1.315/Hay/slider-vs-both.gif" publishTime="08/25/2011 18:06:23" />
-    <file relUrl="Scripts/2011.1.315/telerik.grid.filtering.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Content/2011.1.315/Web20/sprite-vertical.png" publishTime="08/25/2011 18:06:38" />
-    <file relUrl="Images/Mount Everest.jpg" publishTime="11/24/2011 11:58:57" />
-    <file relUrl="Content/2011.1.315/Simple/treeview-line.png" publishTime="08/25/2011 18:06:42" />
-    <file relUrl="Scripts/jquery.validate.min.js" publishTime="08/25/2011 18:06:19" />
-    <file relUrl="Content/2011.1.315/Default/sprite-vertical.png" publishTime="08/25/2011 18:06:28" />
-    <file relUrl="Content/2011.1.315/Sitefinity/slider-vs-both.gif" publishTime="08/25/2011 18:06:29" />
-    <file relUrl="bin/System.Web.WebPages.Deployment.dll" publishTime="09/06/2011 16:21:38" />
-    <file relUrl="Content/2011.1.315/Simple/slider-v-both.gif" publishTime="08/25/2011 18:06:42" />
-    <file relUrl="Images/bookit_button.jpg" publishTime="11/08/2011 16:10:12" />
-    <file relUrl="Scripts/2011.1.315/telerik.grid.editing.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Scripts/jquery.unobtrusive-ajax.min.js" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="bin/EntityFramework.dll" publishTime="10/23/2011 18:52:00" />
-    <file relUrl="Content/2011.1.315/Hay/imagebrowser.png" publishTime="08/25/2011 18:06:23" />
-    <file relUrl="Content/2011.1.315/Hay/treeview-line.png" publishTime="08/25/2011 18:06:23" />
-    <file relUrl="Content/2011.1.315/Sunset/slider-vs-both.gif" publishTime="08/25/2011 18:06:25" />
-    <file relUrl="Content/2011.1.315/WebBlue/slider-h-bottom.gif" publishTime="08/25/2011 18:06:39" />
-    <file relUrl="Content/2011.1.315/WebBlue/slider-h-top.gif" publishTime="08/25/2011 18:06:39" />
-    <file relUrl="Images/Wu Ying Dian.jpg" publishTime="11/06/2011 13:59:04" />
-    <file relUrl="Content/2011.1.315/Outlook/treeview-nodes.png" publishTime="08/25/2011 18:06:43" />
-    <file relUrl="Content/2011.1.315/Default/slider-h-bottom.gif" publishTime="08/25/2011 18:06:28" />
-    <file relUrl="Content/2011.1.315/Office2007/treeview-nodes-rtl.png" publishTime="08/25/2011 18:06:36" />
-    <file relUrl="Content/2011.1.315/Black/treeview-line.png" publishTime="08/25/2011 18:06:46" />
-    <file relUrl="Images/Qianlong Emperor.jpg" publishTime="11/06/2011 14:29:21" />
-    <file relUrl="Content/2011.1.315/Sitefinity/slider-hs-both.gif" publishTime="08/25/2011 18:06:29" />
-    <file relUrl="Content/2011.1.315/Office2007/slider-h-bottom.gif" publishTime="08/25/2011 18:06:36" />
-    <file relUrl="Icon/favicon.ico" publishTime="11/22/2011 16:09:18" />
-    <file relUrl="Content/2011.1.315/Default/loading.gif" publishTime="08/25/2011 18:06:28" />
-    <file relUrl="Content/2011.1.315/Outlook/slider-v-right.gif" publishTime="08/25/2011 18:06:43" />
-    <file relUrl="Content/2011.1.315/Simple/slider-hs-top.gif" publishTime="08/25/2011 18:06:42" />
-    <file relUrl="Content/2011.1.315/Office2007/slider-hs-bottom.gif" publishTime="08/25/2011 18:06:36" />
-    <file relUrl="Content/2011.1.315/Sunset/sprite-vertical.png" publishTime="08/25/2011 18:06:25" />
-    <file relUrl="Content/2011.1.315/Web20/treeview-line.png" publishTime="08/25/2011 18:06:38" />
-    <file relUrl="Content/2011.1.315/Office2007/loading.gif" publishTime="08/25/2011 18:06:36" />
-    <file relUrl="Scripts/2011.1.315/telerik.window.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Content/2011.1.315/Default/slider-h-top.gif" publishTime="08/25/2011 18:06:28" />
-    <file relUrl="Images/Zhuang Zi.jpg" publishTime="11/06/2011 14:29:21" />
-    <file relUrl="Content/2011.1.315/Web20/slider-hs-both.gif" publishTime="08/25/2011 18:06:38" />
-    <file relUrl="Content/2011.1.315/Vista/slider-h-top.gif" publishTime="08/25/2011 18:06:40" />
-    <file relUrl="Content/2011.1.315/Outlook/imagebrowser.png" publishTime="08/25/2011 18:06:43" />
-    <file relUrl="Views/About/Technology.cshtml" publishTime="11/15/2011 15:41:00" />
-    <file relUrl="Scripts/2011.1.315/telerik.menu.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Content/2011.1.315/Outlook/sprite.png" publishTime="08/25/2011 18:06:43" />
-    <file relUrl="Content/2011.1.315/Default/treeview-nodes.png" publishTime="08/25/2011 18:06:28" />
-    <file relUrl="Content/2011.1.315/Sunset/treeview-nodes-rtl.png" publishTime="08/25/2011 18:06:25" />
-    <file relUrl="Content/2011.1.315/Hay/sprite-vertical.png" publishTime="08/25/2011 18:06:23" />
-    <file relUrl="Content/2011.1.315/Web20/loading.gif" publishTime="08/25/2011 18:06:38" />
-    <file relUrl="Images/Kangxi Emperor.jpg" publishTime="11/06/2011 14:29:21" />
-    <file relUrl="bin/System.Web.Mvc.dll" publishTime="09/06/2011 16:15:10" />
-    <file relUrl="Images/login_snap.jpg" publishTime="11/08/2011 16:45:45" />
-    <file relUrl="Content/2011.1.315/Hay/treeview-nodes-rtl.png" publishTime="08/25/2011 18:06:23" />
-    <file relUrl="Content/2011.1.315/Office2010Black/slider-h-both.gif" publishTime="08/25/2011 18:06:32" />
-    <file relUrl="bin/Bookit.Domain.pdb" publishTime="12/19/2011 14:24:49" />
-    <file relUrl="Scripts/jquery.validate.js" publishTime="08/25/2011 18:06:19" />
-    <file relUrl="Content/images/ui-icons_ffd27a_256x240.png" publishTime="08/25/2011 18:06:22" />
-    <file relUrl="Content/2011.1.315/Outlook/slider-hs-top.gif" publishTime="08/25/2011 18:06:43" />
-    <file relUrl="Content/2011.1.315/Default/slider-hs-bottom.gif" publishTime="08/25/2011 18:06:28" />
-    <file relUrl="Content/2011.1.315/Vista/imagebrowser.png" publishTime="08/25/2011 18:06:40" />
-    <file relUrl="Views/Login/ShowCube.cshtml" publishTime="11/04/2011 14:28:45" />
-    <file relUrl="Content/2011.1.315/Office2007/slider-h-top.gif" publishTime="08/25/2011 18:06:36" />
-    <file relUrl="Content/2011.1.315/Default/sprite.png" publishTime="08/25/2011 18:06:28" />
-    <file relUrl="Content/2011.1.315/WebBlue/slider-v-right.gif" publishTime="08/25/2011 18:06:39" />
-    <file relUrl="Content/2011.1.315/Simple/sprite.png" publishTime="08/25/2011 18:06:42" />
-    <file relUrl="Content/2011.1.315/Vista/slider-vs-left.gif" publishTime="08/25/2011 18:06:40" />
-    <file relUrl="Content/2011.1.315/WebBlue/slider-vs-left.gif" publishTime="08/25/2011 18:06:39" />
-    <file relUrl="Images/help_snap1.jpg" publishTime="11/08/2011 15:54:15" />
-    <file relUrl="Images/Tian Tan.jpg" publishTime="11/06/2011 13:56:30" />
-    <file relUrl="Content/2011.1.315/Windows7/slider-h-bottom.gif" publishTime="08/25/2011 18:06:26" />
-    <file relUrl="Scripts/2011.1.315/telerik.imagebrowser.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="bin/log4net.dll" publishTime="10/06/2011 19:44:20" />
-    <file relUrl="Views/Nav/Menu.cshtml" publishTime="11/08/2011 22:36:43" />
-    <file relUrl="Images/Emperor Wen of Han.jpg" publishTime="11/06/2011 14:29:21" />
-    <file relUrl="Views/Shared/_Layout.cshtml" publishTime="11/24/2011 14:31:42" />
-    <file relUrl="Content/2011.1.315/Sitefinity/loading.gif" publishTime="08/25/2011 18:06:29" />
-    <file relUrl="Content/2011.1.315/Hay/loading.gif" publishTime="08/25/2011 18:06:23" />
-    <file relUrl="Content/2011.1.315/Office2010Black/slider-v-both.gif" publishTime="08/25/2011 18:06:32" />
-    <file relUrl="Content/2011.1.315/Hay/treeview-nodes.png" publishTime="08/25/2011 18:06:23" />
-    <file relUrl="Content/2011.1.315/Black/slider-v-right.gif" publishTime="08/25/2011 18:06:46" />
-    <file relUrl="Images/Hongze Lake.jpg" publishTime="11/06/2011 14:50:14" />
-    <file relUrl="Content/2011.1.315/Office2010Black/slider-hs-bottom.gif" publishTime="08/25/2011 18:06:32" />
-    <file relUrl="Content/2011.1.315/Windows7/slider-v-right.gif" publishTime="08/25/2011 18:06:26" />
-    <file relUrl="Content/2011.1.315/Default/slider-hs-top.gif" publishTime="08/25/2011 18:06:28" />
-    <file relUrl="Content/2011.1.315/Vista/slider-hs-both.gif" publishTime="08/25/2011 18:06:40" />
-    <file relUrl="Content/themes/base/jquery.ui.autocomplete.css" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Views/Home/Index.cshtml" publishTime="10/31/2011 17:24:22" />
-    <file relUrl="Content/2011.1.315/Office2010Black/slider-h-top.gif" publishTime="08/25/2011 18:06:32" />
-    <file relUrl="Scripts/MicrosoftMvcAjax.debug.js" publishTime="08/25/2011 18:06:19" />
-    <file relUrl="Scripts/2011.1.315/jquery-1.5.1.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="packages.config" publishTime="10/23/2011 18:51:29" />
-    <file relUrl="Content/2011.1.315/Sunset/slider-hs-bottom.gif" publishTime="08/25/2011 18:06:25" />
-    <file relUrl="Content/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" publishTime="08/25/2011 18:06:22" />
-    <file relUrl="Content/2011.1.315/Windows7/slider-hs-top.gif" publishTime="08/25/2011 18:06:26" />
-    <file relUrl="Scripts/2011.1.315/telerik.splitter.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Content/2011.1.315/Sitefinity/slider-v-left.gif" publishTime="08/25/2011 18:06:29" />
-    <file relUrl="Content/2011.1.315/Sunset/slider-vs-right.gif" publishTime="08/25/2011 18:06:25" />
-    <file relUrl="Scripts/2011.1.315/telerik.panelbar.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Content/2011.1.315/Hay/slider-hs-bottom.gif" publishTime="08/25/2011 18:06:23" />
-    <file relUrl="Content/2011.1.315/Simple/loading.gif" publishTime="08/25/2011 18:06:42" />
-    <file relUrl="bin/System.Web.Helpers.xml" publishTime="07/07/2011 09:38:06" />
-    <file relUrl="Images/Lu Gu Hu.jpg" publishTime="11/06/2011 14:50:14" />
-    <file relUrl="Content/2011.1.315/Forest/slider-hs-both.gif" publishTime="08/25/2011 18:06:35" />
-    <file relUrl="Content/Site.css" publishTime="11/24/2011 14:25:37" />
-    <file relUrl="Content/2011.1.315/Sunset/slider-h-both.gif" publishTime="08/25/2011 18:06:25" />
-    <file relUrl="Content/2011.1.315/Sitefinity/editor.png" publishTime="08/25/2011 18:06:29" />
-    <file relUrl="Content/2011.1.315/Office2007/slider-v-right.gif" publishTime="08/25/2011 18:06:36" />
-    <file relUrl="Images/Grand View Park.jpg" publishTime="11/03/2011 21:21:59" />
-    <file relUrl="Content/2011.1.315/Vista/slider-v-right.gif" publishTime="08/25/2011 18:06:40" />
-    <file relUrl="Content/themes/base/jquery.ui.selectable.css" publishTime="10/12/2011 14:54:00" />
-    <file relUrl="Content/2011.1.315/Simple/slider-vs-both.gif" publishTime="08/25/2011 18:06:42" />
-    <file relUrl="bin/System.Web.WebPages.dll" publishTime="09/06/2011 16:21:36" />
-    <file relUrl="Content/2011.1.315/Windows7/sprite-vertical.png" publishTime="08/25/2011 18:06:26" />
-    <file relUrl="Content/2011.1.315/Office2010Black/loading.gif" publishTime="08/25/2011 18:06:32" />
-    <file relUrl="Content/2011.1.315/Office2010Black/slider-vs-right.gif" publishTime="08/25/2011 18:06:32" />
-    <file relUrl="Content/images/ui-bg_glass_65_ffffff_1x400.png" publishTime="08/25/2011 18:06:22" />
-    <file relUrl="Content/2011.1.315/Simple/slider-h-bottom.gif" publishTime="08/25/2011 18:06:42" />
-    <file relUrl="Content/2011.1.315/Sitefinity/slider-h-both.gif" publishTime="08/25/2011 18:06:29" />
-    <file relUrl="Images/bookit_new.png" publishTime="10/16/2011 21:40:50" />
-    <file relUrl="Content/2011.1.315/Web20/slider-vs-both.gif" publishTime="08/25/2011 18:06:38" />
-    <file relUrl="Images/Mount Heng.jpg" publishTime="11/24/2011 11:58:57" />
-    <file relUrl="Content/2011.1.315/telerik.office2007.min.css" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Content/2011.1.315/Web20/slider-vs-left.gif" publishTime="08/25/2011 18:06:38" />
-    <file relUrl="Content/2011.1.315/Web20/slider-h-both.gif" publishTime="08/25/2011 18:06:38" />
-    <file relUrl="Content/2011.1.315/Hay/slider-vs-left.gif" publishTime="08/25/2011 18:06:23" />
-    <file relUrl="Images/bookit_beta.png" publishTime="11/04/2011 14:53:05" />
-    <file relUrl="Content/2011.1.315/Hay/slider-v-left.gif" publishTime="08/25/2011 18:06:23" />
-    <file relUrl="Images/Wei Shan Hu.jpg" publishTime="11/06/2011 14:50:14" />
-    <file relUrl="Content/2011.1.315/Sunset/editor.png" publishTime="08/25/2011 18:06:25" />
-    <file relUrl="Images/entity_framework.jpg" publishTime="10/28/2011 14:59:37" />
-    <file relUrl="Content/2011.1.315/Telerik/slider-v-right.gif" publishTime="08/25/2011 18:06:44" />
-    <file relUrl="Views/OneClick/NoRoomAvailable.cshtml" publishTime="11/08/2011 11:39:34" />
-    <file relUrl="bin/Bookit.Domain.dll" publishTime="12/19/2011 14:24:49" />
-    <file relUrl="Scripts/jquery-ui-1.8.11.js" publishTime="10/12/2011 14:54:00" />
-    <file relUrl="Content/2011.1.315/Office2010Black/slider-vs-both.gif" publishTime="08/25/2011 18:06:32" />
-    <file relUrl="bin/Telerik.Web.Mvc.dll" publishTime="08/25/2011 18:07:08" />
-    <file relUrl="Content/2011.1.315/Black/slider-vs-both.gif" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="bin/Book!t.UI.MVC4.pdb" publishTime="12/20/2011 10:44:00" />
-    <file relUrl="Scripts/2011.1.315/telerik.autocomplete.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="bin/Microsoft.Web.Infrastructure.dll" publishTime="08/30/2011 08:56:52" />
-    <file relUrl="Scripts/2011.1.315/telerik.textbox.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Content/2011.1.315/Outlook/slider-h-top.gif" publishTime="08/25/2011 18:06:43" />
-    <file relUrl="Content/themes/base/jquery.ui.accordion.css" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Content/2011.1.315/Web20/slider-h-bottom.gif" publishTime="08/25/2011 18:06:38" />
-    <file relUrl="Images/map_draft.jpg" publishTime="11/14/2011 16:58:18" />
-    <file relUrl="bin/Book!t.Data.pdb" publishTime="12/20/2011 10:43:55" />
-    <file relUrl="Content/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Content/2011.1.315/Hay/slider-v-both.gif" publishTime="08/25/2011 18:06:23" />
-    <file relUrl="Content/2011.1.315/Telerik/treeview-nodes-rtl.png" publishTime="08/25/2011 18:06:44" />
-    <file relUrl="Content/2011.1.315/WebBlue/slider-v-both.gif" publishTime="08/25/2011 18:06:39" />
-    <file relUrl="Content/2011.1.315/Telerik/sprite.png" publishTime="08/25/2011 18:06:44" />
-    <file relUrl="Content/2011.1.315/telerik.hay.min.css" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Images/Tai Lake.jpg" publishTime="11/06/2011 14:50:14" />
-    <file relUrl="Views/About/Feedback.cshtml" publishTime="11/15/2011 15:50:47" />
-    <file relUrl="Content/2011.1.315/Black/slider-hs-top.gif" publishTime="08/25/2011 18:06:46" />
-    <file relUrl="Images/Mount Changbai.jpg" publishTime="11/24/2011 11:58:57" />
-    <file relUrl="Scripts/2011.1.315/telerik.datetimepicker.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Content/themes/base/jquery.ui.theme.css" publishTime="10/12/2011 14:54:00" />
-    <file relUrl="Images/Mount Wutai.jpg" publishTime="11/24/2011 11:58:57" />
-    <file relUrl="Content/2011.1.315/telerik.windows7.min.css" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Scripts/jquery-ui-1.8.16.custom.min.js" publishTime="08/25/2011 18:06:19" />
-    <file relUrl="Content/2011.1.315/Hay/slider-hs-both.gif" publishTime="08/25/2011 18:06:23" />
-    <file relUrl="Images/Mencius.jpg" publishTime="11/06/2011 14:29:21" />
-    <file relUrl="Content/2011.1.315/Sunset/slider-h-bottom.gif" publishTime="08/25/2011 18:06:25" />
-    <file relUrl="Content/themes/base/jquery.ui.button.css" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Content/2011.1.315/Black/sprite.png" publishTime="08/25/2011 18:06:46" />
-    <file relUrl="Scripts/2011.1.315/jquery.validate.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Scripts/2011.1.315/telerik.grid.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Content/2011.1.315/Sunset/slider-v-right.gif" publishTime="08/25/2011 18:06:25" />
-    <file relUrl="Content/2011.1.315/Telerik/slider-vs-left.gif" publishTime="08/25/2011 18:06:44" />
-    <file relUrl="Content/2011.1.315/Sitefinity/treeview-nodes-rtl.png" publishTime="08/25/2011 18:06:29" />
-    <file relUrl="Content/2011.1.315/WebBlue/slider-hs-both.gif" publishTime="08/25/2011 18:06:39" />
-    <file relUrl="Content/2011.1.315/Office2007/slider-h-both.gif" publishTime="08/25/2011 18:06:36" />
-    <file relUrl="Images/Wen Hua Dian.jpg" publishTime="11/06/2011 13:58:14" />
-    <file relUrl="Content/2011.1.315/Forest/slider-v-both.gif" publishTime="08/25/2011 18:06:35" />
-    <file relUrl="Content/2011.1.315/Windows7/sprite.png" publishTime="08/25/2011 18:06:26" />
-    <file relUrl="Content/2011.1.315/Sitefinity/slider-vs-left.gif" publishTime="08/25/2011 18:06:29" />
-    <file relUrl="Content/2011.1.315/WebBlue/loading.gif" publishTime="08/25/2011 18:06:39" />
-    <file relUrl="Scripts/2011.1.315/telerik.grid.resizing.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Scripts/MicrosoftMvcValidation.js" publishTime="08/25/2011 18:06:19" />
-    <file relUrl="Images/arrow_swoop_right.png" publishTime="10/12/2011 23:42:28" />
-    <file relUrl="Content/2011.1.315/Windows7/loading.gif" publishTime="08/25/2011 18:06:26" />
-    <file relUrl="Content/2011.1.315/Web20/slider-v-both.gif" publishTime="08/25/2011 18:06:38" />
-    <file relUrl="Content/2011.1.315/Black/loading.gif" publishTime="08/25/2011 18:06:46" />
-    <file relUrl="Content/themes/base/jquery.ui.base.css" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Images/Emperor Wu of Han.jpg" publishTime="11/06/2011 14:29:21" />
-    <file relUrl="Content/images/ui-bg_glass_100_f6f6f6_1x400.png" publishTime="08/25/2011 18:06:22" />
-    <file relUrl="Content/2011.1.315/Black/slider-v-both.gif" publishTime="08/25/2011 18:06:46" />
-    <file relUrl="Content/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Views/About/Index.cshtml" publishTime="11/08/2011 22:59:29" />
-    <file relUrl="Scripts/2011.1.315/telerik.draganddrop.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Images/Di Tan.jpg" publishTime="11/06/2011 13:22:37" />
-    <file relUrl="Content/2011.1.315/Windows7/slider-hs-both.gif" publishTime="08/25/2011 18:06:26" />
-    <file relUrl="Content/2011.1.315/Vista/sprite.png" publishTime="08/25/2011 18:06:40" />
-    <file relUrl="Content/2011.1.315/Simple/slider-vs-left.gif" publishTime="08/25/2011 18:06:42" />
-    <file relUrl="Content/2011.1.315/Default/slider-vs-right.gif" publishTime="08/25/2011 18:06:28" />
-    <file relUrl="Views/_ViewStart.cshtml" publishTime="10/12/2011 14:53:58" />
-    <file relUrl="Content/2011.1.315/Sunset/slider-hs-both.gif" publishTime="08/25/2011 18:06:25" />
-    <file relUrl="Scripts/jquery-1.6.2.js" publishTime="10/12/2011 14:53:59" />
-    <file relUrl="Content/images/ui-icons_228ef1_256x240.png" publishTime="08/25/2011 18:06:22" />
-    <file relUrl="Views/Shared/MeetingRoomDetail.cshtml" publishTime="12/20/2011 10:25:19" />
-    <file relUrl="Content/2011.1.315/Office2007/slider-vs-right.gif" publishTime="08/25/2011 18:06:36" />
-    <file relUrl="bin/System.Web.WebPages.Deployment.xml" publishTime="07/07/2011 09:38:06" />
-    <file relUrl="Images/Xiang Shan.jpg" publishTime="11/06/2011 13:59:29" />
-    <file relUrl="Content/2011.1.315/Vista/slider-vs-right.gif" publishTime="08/25/2011 18:06:40" />
-    <file relUrl="Content/2011.1.315/Hay/slider-vs-right.gif" publishTime="08/25/2011 18:06:23" />
-    <file relUrl="Images/Wu Zetian.jpg" publishTime="11/06/2011 14:29:21" />
-    <file relUrl="Images/Mount Wudang.jpg" publishTime="11/24/2011 11:58:57" />
-    <file relUrl="Scripts/MicrosoftAjax.js" publishTime="08/25/2011 18:06:19" />
-    <file relUrl="Content/2011.1.315/WebBlue/treeview-nodes-rtl.png" publishTime="08/25/2011 18:06:39" />
-    <file relUrl="Content/2011.1.315/Vista/slider-hs-top.gif" publishTime="08/25/2011 18:06:40" />
-    <file relUrl="Content/2011.1.315/Sitefinity/imagebrowser.png" publishTime="08/25/2011 18:06:29" />
-    <file relUrl="Content/2011.1.315/Web20/treeview-nodes.png" publishTime="08/25/2011 18:06:38" />
-    <file relUrl="Content/images/ui-icons_ef8c08_256x240.png" publishTime="08/25/2011 18:06:22" />
-    <file relUrl="Content/2011.1.315/Web20/treeview-nodes-rtl.png" publishTime="08/25/2011 18:06:38" />
-    <file relUrl="Images/Mount Putuo.jpg" publishTime="11/24/2011 11:58:57" />
-    <file relUrl="Content/themes/base/images/ui-icons_222222_256x240.png" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="bin/System.Web.Razor.xml" publishTime="07/07/2011 09:38:06" />
-    <file relUrl="Content/2011.1.315/Telerik/treeview-nodes.png" publishTime="08/25/2011 18:06:44" />
-    <file relUrl="Content/2011.1.315/Office2010Black/editor.png" publishTime="08/25/2011 18:06:32" />
-    <file relUrl="Content/2011.1.315/Web20/imagebrowser.png" publishTime="08/25/2011 18:06:38" />
-    <file relUrl="Content/2011.1.315/Outlook/slider-vs-left.gif" publishTime="08/25/2011 18:06:43" />
-    <file relUrl="Content/2011.1.315/WebBlue/editor.png" publishTime="08/25/2011 18:06:39" />
-    <file relUrl="Content/2011.1.315/Office2007/slider-vs-both.gif" publishTime="08/25/2011 18:06:36" />
-    <file relUrl="Images/Du Fu.jpg" publishTime="11/06/2011 14:29:21" />
-    <file relUrl="Content/2011.1.315/Black/editor.png" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Content/2011.1.315/Windows7/slider-h-both.gif" publishTime="08/25/2011 18:06:26" />
-    <file relUrl="Web.config" publishTime="12/20/2011 10:44:19" />
-    <file relUrl="Scripts/2011.1.315/telerik.list.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Content/2011.1.315/Telerik/slider-vs-both.gif" publishTime="08/25/2011 18:06:45" />
-    <file relUrl="Scripts/MicrosoftMvcValidation.debug.js" publishTime="08/25/2011 18:06:19" />
-    <file relUrl="Content/2011.1.315/Windows7/slider-vs-both.gif" publishTime="08/25/2011 18:06:26" />
-    <file relUrl="bin/Microsoft.Web.Infrastructure.xml" publishTime="09/06/2011 16:15:18" />
-    <file relUrl="Content/2011.1.315/Vista/slider-h-both.gif" publishTime="08/25/2011 18:06:40" />
-    <file relUrl="Content/2011.1.315/Forest/editor.png" publishTime="08/25/2011 18:06:35" />
-    <file relUrl="Content/images/ui-bg_diagonals-thick_20_666666_40x40.png" publishTime="08/25/2011 18:06:22" />
-    <file relUrl="bin/Ninject.dll" publishTime="10/23/2011 18:52:00" />
-    <file relUrl="Images/Mount Emei.jpg" publishTime="11/24/2011 11:58:57" />
-    <file relUrl="Content/themes/base/images/ui-icons_2e83ff_256x240.png" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Content/2011.1.315/Windows7/slider-v-both.gif" publishTime="08/25/2011 18:06:26" />
-    <file relUrl="Content/2011.1.315/Default/slider-v-left.gif" publishTime="08/25/2011 18:06:28" />
-    <file relUrl="Content/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" publishTime="08/25/2011 18:06:22" />
-    <file relUrl="Views/Regular/Index.cshtml" publishTime="10/23/2011 18:51:27" />
-    <file relUrl="Content/2011.1.315/Outlook/slider-v-both.gif" publishTime="08/25/2011 18:06:43" />
-    <file relUrl="Content/2011.1.315/Telerik/slider-hs-bottom.gif" publishTime="08/25/2011 18:06:44" />
-    <file relUrl="Content/themes/base/images/ui-bg_glass_65_ffffff_1x400.png" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Content/2011.1.315/Web20/slider-vs-right.gif" publishTime="08/25/2011 18:06:38" />
-    <file relUrl="Images/asp-net_mvc4.png" publishTime="11/08/2011 16:57:03" />
-    <file relUrl="Scripts/jquery.watermark.min.js" publishTime="03/22/2011 10:53:22" />
-    <file relUrl="Content/2011.1.315/Forest/slider-vs-both.gif" publishTime="08/25/2011 18:06:35" />
-    <file relUrl="Content/2011.1.315/WebBlue/treeview-nodes.png" publishTime="08/25/2011 18:06:39" />
-    <file relUrl="Content/2011.1.315/WebBlue/slider-vs-right.gif" publishTime="08/25/2011 18:06:39" />
-    <file relUrl="Content/2011.1.315/Forest/slider-h-bottom.gif" publishTime="08/25/2011 18:06:35" />
-    <file relUrl="Images/Yan Qi Lake.jpg" publishTime="11/06/2011 14:00:13" />
-    <file relUrl="Images/Tao Ran Ting.jpg" publishTime="11/06/2011 13:47:01" />
-    <file relUrl="Content/2011.1.315/Forest/slider-h-top.gif" publishTime="08/25/2011 18:06:35" />
-    <file relUrl="Content/2011.1.315/Telerik/treeview-line.png" publishTime="08/25/2011 18:06:44" />
-    <file relUrl="Content/2011.1.315/Black/slider-hs-bottom.gif" publishTime="08/25/2011 18:06:46" />
-    <file relUrl="Content/2011.1.315/Black/slider-h-both.gif" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Content/2011.1.315/Default/slider-hs-both.gif" publishTime="08/25/2011 18:06:28" />
-    <file relUrl="Content/2011.1.315/Outlook/editor.png" publishTime="08/25/2011 18:06:43" />
-    <file relUrl="Scripts/2011.1.315/telerik.treeview.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Content/2011.1.315/Office2010Black/treeview-line.png" publishTime="08/25/2011 18:06:32" />
-    <file relUrl="Content/2011.1.315/Web20/sprite.png" publishTime="08/25/2011 18:06:38" />
-    <file relUrl="Content/jquery-ui-1.8.16.custom.css" publishTime="08/25/2011 18:06:47" />
-    <file relUrl="Content/2011.1.315/WebBlue/sprite-vertical.png" publishTime="08/25/2011 18:06:39" />
-    <file relUrl="Images/Zi Zhu Yuan.jpg" publishTime="11/06/2011 14:00:44" />
-    <file relUrl="bin/Book!t.Data.dll" publishTime="12/20/2011 10:43:55" />
-    <file relUrl="Content/2011.1.315/Windows7/imagebrowser.png" publishTime="08/25/2011 18:06:26" />
-    <file relUrl="Scripts/2011.1.315/telerik.slider.min.js" publishTime="08/25/2011 18:06:14" />
-    <file relUrl="Content/2011.1.315/Sitefinity/sprite-vertical.png" publishTime="08/25/2011 18:06:29" />
-    <file relUrl="Content/2011.1.315/WebBlue/imagebrowser.png" publishTime="08/25/2011 18:06:39" />
-    <file relUrl="Content/themes/base/jquery.ui.core.css" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Images/Mount Lu.jpg" publishTime="11/24/2011 11:58:57" />
-    <file relUrl="Content/2011.1.315/Windows7/slider-vs-right.gif" publishTime="08/25/2011 18:06:26" />
-    <file relUrl="Content/themes/base/jquery.ui.datepicker.css" publishTime="10/12/2011 14:54:01" />
-    <file relUrl="Content/2011.1.315/Windows7/editor.png" publishTime="08/25/2011 18:06:26" />
+  <publishProfile publishUrl="D:\BookitWebsite" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="LocalPublishProfile" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Images/Imperial Garden.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="bin/Bookit.Domain.dll" publishTime="06/18/2012 18:48:07" />
+    <file relUrl="Images/Mount Wudang.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Xiang Shan.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="bin/System.Web.WebPages.Razor.dll" publishTime="05/05/2012 03:15:44" />
+    <file relUrl="Images/Mount Huang.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/knockout-1.3.0beta.debug.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/knockout-1.3.0beta.js" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Scripts/2011.1.315/telerik.grid.reordering.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Yan Qi Lake.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/images/ui-bg_diagonals-thick_18_b81900_40x40.png" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="bin/System.Web.Mvc.xml" publishTime="04/09/2012 12:55:48" />
+    <file relUrl="Views/Regular/NoRoomAvailable.cshtml" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="bin/System.Web.Helpers.dll" publishTime="05/05/2012 03:15:44" />
+    <file relUrl="Content/2011.1.315/telerik.default.min.css" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="bin/Bookit.Data.dll" publishTime="06/18/2012 18:51:48" />
+    <file relUrl="Scripts/2011.1.315/telerik.calendar.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/images/ui-icons_228ef1_256x240.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/2011.1.315/telerik.upload.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="bin/System.Web.Razor.dll" publishTime="05/05/2012 03:15:44" />
+    <file relUrl="Scripts/2011.1.315/telerik.common.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Views/Login/Login.cshtml" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Content/images/ui-bg_glass_100_fdf5ce_1x400.png" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Content/themes/base/jquery.ui.tabs.css" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/2011.1.315/telerik.panelbar.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/MicrosoftAjax.debug.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/2011.1.315/telerik.editor.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/asp-net-mvc-3.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Tao Ran Ting.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/themes/base/jquery.ui.dialog.css" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Mount Changbai.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/2011.1.315/telerik.datetimepicker.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/MicrosoftMvcAjax.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Views/About/Help.cshtml" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Content/themes/base/images/ui-bg_flat_75_ffffff_40x100.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Emperor Taizong of Tang.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Ti Ren Ge.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/images/ui-icons_222222_256x240.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="bin/Ninject.Web.Mvc.dll" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="bin/Bookit.Biz.pdb" publishTime="06/18/2012 18:51:48" />
+    <file relUrl="Scripts/jquery.validate-vsdoc.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/jquery-1.6.2.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Wang Fu Jing.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/2011.1.315/Windows7/slider-vs-left.gif" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Images/Yu Yuan Tan.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Mount Putuo.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Mount Tai.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/jquery.unobtrusive-ajax.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/jquery.validate.unobtrusive.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/map_draft.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/2011.1.315/Windows7/slider-h-top.gif" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Images/Dong Ting Lake.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/themes/base/images/ui-icons_888888_256x240.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/help_snap2.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Hou Hai.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/images/ui-bg_flat_10_000000_40x100.png" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Content/themes/base/images/ui-icons_cd0a0a_256x240.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/themes/base/images/ui-bg_glass_75_dadada_1x400.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/jquery-1.6.2-vsdoc.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Yang Guifei.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/2011.1.315/telerik.slider.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Mount Kunlun.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/ninject.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Views/Shared/Error.cshtml" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Images/West Lake.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/themes/base/images/ui-icons_454545_256x240.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/2011.1.315/telerik.grid.grouping.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="bin/System.Web.WebPages.Deployment.xml" publishTime="04/09/2012 12:55:48" />
+    <file relUrl="Content/images/ui-icons_ffffff_256x240.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Mencius.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/themes/base/jquery.ui.slider.css" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Global.asax" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/themes/base/jquery.ui.all.css" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/2011.1.315/telerik.tabstrip.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="meetingrooms_arca.txt" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Content/2011.1.315/Windows7/slider-hs-bottom.gif" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Scripts/2011.1.315/telerik.grid.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/2011.1.315/Windows7/slider-v-left.gif" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Views/Web.config" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Images/Jingbo Hu.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/2011.1.315/telerik.combobox.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Er Hai.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/images/ui-bg_gloss-wave_35_f6a828_500x100.png" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Images/m_holder.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="bin/System.Web.WebPages.Razor.xml" publishTime="04/09/2012 12:55:48" />
+    <file relUrl="Scripts/2011.1.315/telerik.datepicker.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="bin/Bookit.UI.Mvc4.pdb" publishTime="06/18/2012 19:33:59" />
+    <file relUrl="bin/System.Web.WebPages.xml" publishTime="04/09/2012 12:55:48" />
+    <file relUrl="Scripts/jquery-ui-1.8.11.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="meetingrooms_info.txt" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Views/About/Idea.cshtml" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Scripts/2011.1.315/telerik.grid.filtering.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Mount Everest.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="bin/System.Web.WebPages.Deployment.dll" publishTime="05/05/2012 03:15:44" />
+    <file relUrl="Scripts/2011.1.315/telerik.grid.editing.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Mount Emei.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/jquery.unobtrusive-ajax.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/2011.1.315/telerik.timepicker.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="bin/EntityFramework.dll" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Images/Wu Ying Dian.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Wen Hua Dian.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Qianlong Emperor.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Icon/favicon.ico" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/2011.1.315/telerik.window.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Zhuang Zi.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Views/About/Technology.cshtml" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Scripts/2011.1.315/telerik.menu.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/images/ui-bg_glass_100_f6f6f6_1x400.png" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Images/Kangxi Emperor.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="bin/System.Web.Mvc.dll" publishTime="05/05/2012 03:14:26" />
+    <file relUrl="Content/2011.1.315/Windows7/loading.gif" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Scripts/jquery.validate.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/images/ui-icons_ffd27a_256x240.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Views/Login/ShowCube.cshtml" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Images/Wei Shan Hu.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/2011.1.315/Windows7/slider-vs-right.gif" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="bin/Bookit.UI.Mvc4.dll" publishTime="06/18/2012 19:33:59" />
+    <file relUrl="Images/help_snap1.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Tian Tan.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/2011.1.315/Windows7/slider-h-bottom.gif" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Scripts/2011.1.315/telerik.imagebrowser.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/2011.1.315/telerik.list.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Views/Nav/Menu.cshtml" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Images/Emperor Wen of Han.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Views/OneClick/Index.cshtml" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Views/Shared/_Layout.cshtml" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Images/Hongze Lake.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Li Bai.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/themes/base/jquery.ui.autocomplete.css" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Views/Home/Index.cshtml" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Scripts/MicrosoftMvcAjax.debug.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/2011.1.315/jquery-1.5.1.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="packages.config" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Content/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/2011.1.315/Windows7/slider-hs-top.gif" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Scripts/2011.1.315/telerik.splitter.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Views/Shared/MeetingRoomDetail.cshtml" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="bin/System.Web.Helpers.xml" publishTime="04/09/2012 12:55:48" />
+    <file relUrl="Images/Lu Gu Hu.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/Site.css" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Content/images/ui-bg_diagonals-thick_20_666666_40x40.png" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Images/Grand View Park.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/themes/base/jquery.ui.selectable.css" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="bin/System.Web.WebPages.dll" publishTime="05/05/2012 03:15:44" />
+    <file relUrl="Content/2011.1.315/Windows7/sprite-vertical.png" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Content/images/ui-bg_glass_65_ffffff_1x400.png" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Content/themes/base/jquery.ui.progressbar.css" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/bookit_new.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Mount Heng.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Poyang Lake.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/bookit_beta.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/themes/base/images/ui-bg_glass_65_ffffff_1x400.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/entity_framework.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/jquery.validate.unobtrusive.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Views/OneClick/NoRoomAvailable.cshtml" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Scripts/jquery-ui-1.8.11.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/2011.1.315/telerik.autocomplete.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="bin/Microsoft.Web.Infrastructure.dll" publishTime="04/09/2012 12:55:46" />
+    <file relUrl="Scripts/2011.1.315/telerik.textbox.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/themes/base/jquery.ui.accordion.css" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Tai Lake.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Views/About/Feedback.cshtml" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="bin/Ninject.dll" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Content/themes/base/jquery.ui.theme.css" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Mount Wutai.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/2011.1.315/telerik.windows7.min.css" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Scripts/jquery-ui-1.8.16.custom.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/themes/base/jquery.ui.button.css" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/2011.1.315/jquery.validate.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Emperor Wu of Han.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="bin/log4net.dll" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Scripts/modernizr-2.0.6-development-only.js" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Content/2011.1.315/Windows7/sprite.png" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Scripts/2011.1.315/telerik.grid.resizing.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Scripts/MicrosoftMvcValidation.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/arrow_swoop_right.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Views/Regular/Index.cshtml" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Content/themes/base/jquery.ui.base.css" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="bin/Bookit.Data.pdb" publishTime="06/18/2012 18:51:47" />
+    <file relUrl="Views/About/Index.cshtml" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Scripts/2011.1.315/telerik.draganddrop.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Di Tan.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/2011.1.315/Windows7/slider-hs-both.gif" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Images/login_snap.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Views/_ViewStart.cshtml" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Scripts/jquery-1.6.2.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="bin/Bookit.Domain.pdb" publishTime="06/18/2012 18:48:06" />
+    <file relUrl="Scripts/jquery.validate.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="bin/Telerik.Web.Mvc.dll" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Scripts/MicrosoftAjax.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/2011.1.315/Windows7/slider-v-right.gif" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Content/themes/base/jquery.ui.resizable.css" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/images/ui-icons_ef8c08_256x240.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Views/Shared/RegularSearch.cshtml" publishTime="06/18/2012 13:47:45" />
+    <file relUrl="Content/themes/base/images/ui-icons_222222_256x240.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="bin/System.Web.Razor.xml" publishTime="04/09/2012 12:55:48" />
+    <file relUrl="Images/Du Fu.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Web.config" publishTime="06/18/2012 19:30:07" />
+    <file relUrl="Scripts/MicrosoftMvcValidation.debug.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/2011.1.315/Windows7/slider-vs-both.gif" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="bin/Microsoft.Web.Infrastructure.xml" publishTime="04/09/2012 12:55:46" />
+    <file relUrl="Content/2011.1.315/Windows7/slider-h-both.gif" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Content/themes/base/images/ui-icons_2e83ff_256x240.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/2011.1.315/Windows7/slider-v-both.gif" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Content/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/asp-net_mvc4.png" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Qiong Dao.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Wu Zetian.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/bookit_button.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="bin/Bookit.Biz.dll" publishTime="06/18/2012 18:51:48" />
+    <file relUrl="Scripts/2011.1.315/telerik.treeview.min.js" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/jquery-ui-1.8.16.custom.css" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Zi Zhu Yuan.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/2011.1.315/Windows7/imagebrowser.png" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Content/themes/base/jquery.ui.core.css" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Images/Mount Lu.jpg" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/2011.1.315/telerik.common.min.css" publishTime="06/18/2012 13:47:43" />
+    <file relUrl="Content/themes/base/jquery.ui.datepicker.css" publishTime="06/18/2012 13:47:44" />
+    <file relUrl="Content/2011.1.315/Windows7/editor.png" publishTime="06/18/2012 13:47:43" />
   </publishProfile>
 </publishData>
