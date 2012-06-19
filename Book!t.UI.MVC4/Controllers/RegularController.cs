@@ -86,7 +86,7 @@ namespace Bookit.UI.Mvc4.Controllers
         }
 
         public FileContentResult Book(
-                                        DateTime startTime,
+                                        DateTime roomStartTime,
                                         int duration,
                                         string roomName,
                                         string roomEmail,
@@ -98,17 +98,17 @@ namespace Bookit.UI.Mvc4.Controllers
                                         "booking room name = {0}, email = {1}, s = {2}, d = {3}",
                                         roomName,
                                         roomEmail,
-                                        startTime,
+                                        roomStartTime,
                                         duration
                           );
 
             string ext;
-            var b = _calBuilder.Build(startTime, duration, string.Format(CultureInfo.InvariantCulture, "{0} ({1})", roomName, roomDescription), roomEmail, out ext);
+            var b = _calBuilder.Build(roomStartTime, duration, string.Format(CultureInfo.InvariantCulture, "{0} ({1})", roomName, roomDescription), roomEmail, out ext);
             return File(b, "text/calendar", string.Format(
                                                             CultureInfo.InvariantCulture,
                                                             "Bookit_{0}_{1}_{2}.{3}",
                                                             roomName,
-                                                            startTime,
+                                                            roomStartTime,
                                                             duration,
                                                             ext
                                                          ));

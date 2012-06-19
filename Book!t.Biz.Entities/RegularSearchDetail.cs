@@ -42,7 +42,7 @@ namespace Bookit.Domain
             isValid &= int.TryParse(attendees, out at);
 
             //start time must be later than now.
-            isValid &= (startTime.CompareTo(DateTime.Now.AddMinutes(-10)) >= 0);
+            isValid &= (outStartTime.CompareTo(DateTime.Now.AddMinutes(-10)) >= 0);
 
             if (!isValid
                 || (d <= 0 || d > 600)
