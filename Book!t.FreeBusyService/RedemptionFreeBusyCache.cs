@@ -37,7 +37,7 @@ namespace Bookit.FreeBusyService
                 BookitDB db = new BookitDB();
                 this.emails = db.MeetingRooms.Select(mr => mr.Email).ToList();
 
-                poolingThread = new Thread(PoolingWorker);
+                poolingThread = new Thread(PullingWorker);
                 poolingThread.IsBackground = true;
                 poolingThread.Start();
 
@@ -47,7 +47,7 @@ namespace Bookit.FreeBusyService
             }
         }
 
-        void PoolingWorker()
+        void PullingWorker()
         {
             while (true)
             {
@@ -64,6 +64,8 @@ namespace Bookit.FreeBusyService
                         try
                         {
                             cache[e] = new KeyValuePair<DateTime, string>(nowaDay, fb);
+
+                            Log.InfoFormat("cache updated successfully for email = {0}, date = {1}", e, nowaDay.ToString());
                         }
                         finally
                         {
@@ -72,7 +74,7 @@ namespace Bookit.FreeBusyService
                     }
                     catch (Exception ex)
                     {
-                        Log.Warn("EX @ " + "PoolingWorker " + ex);
+                        Log.Warn("EX @ Pulling worker. Email = " + e + " Exception = " + ex);
                     }
                 }
                 Log.Info("cache updating finished.");
@@ -110,7 +112,7 @@ namespace Bookit.FreeBusyService
                 rw.ExitReadLock();
             }
 
-            Log.WarnFormat("RedemptionCached missed for s = {0}, e = {1}", sdate, edate);
+            Log.WarnFormat("RedemptionCache missed for s = {0}, e = {1}, email = {2}", sdate, edate, email);
 
             try
             {
